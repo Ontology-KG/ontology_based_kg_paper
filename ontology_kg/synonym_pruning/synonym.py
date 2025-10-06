@@ -386,10 +386,6 @@ def build_entity_lexicon(df: pd.DataFrame,
     return entity_dict_df, assignments, artifacts
 
 
-
-# -------------------------------
-# 0)
-# -------------------------------
 def collect_triples_from_df(df: pd.DataFrame, col: str = "parsed_triplets") -> List[Tuple[str, str, str]]:
     triples = []
     for row in df[col].dropna():
@@ -447,10 +443,6 @@ def build_filtered_relation_index(triples: List[Tuple[str, str, str]],
     rel2id = {r: i for i, r in enumerate(filtered_relations)}
     return filtered_relations, rel2id
 
-# -------------------------------
-# 1) text embedding
-# -------------------------------
-
 def compute_relation_text_embeddings(relations: List[str],
                                      model_name: str = "sentence-transformers/all-MiniLM-L6-v2",
                                      batch_size: int = 64) -> np.ndarray:
@@ -460,9 +452,7 @@ def compute_relation_text_embeddings(relations: List[str],
     Z = model.encode(relations, batch_size=batch_size, show_progress_bar=False, normalize_embeddings=True)
     return np.asarray(Z, dtype=np.float32)
 
-# -------------------------------
-# 2) Selectional-Preference 
-# -------------------------------
+
 
 def _compact_type_index(entity_assignments: Dict[str, int]) -> Dict[int, int]:
     pos_types = sorted({cid for cid in entity_assignments.values() if cid is not None and cid >= 0})
@@ -497,10 +487,6 @@ def build_selectional_signatures(triples: List[Tuple[str, str, str]],
     H = H / H_sum
     Tm = Tm / T_sum
     return H, Tm, type2local, local2type
-
-# -------------------------------
-# 3) spectral relation embedding
-# -------------------------------
 
 def spectral_relation_embedding(H: np.ndarray,
                                 Tm: np.ndarray,

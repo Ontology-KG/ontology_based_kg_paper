@@ -249,16 +249,12 @@ Now extract triplets from the following section:
 **Output:**
 """
 
-# GPT 호출 함수
 def extract_triplets(text):
-    """GPT-5-mini"""
     prompt = PROMPT_TEMPLATE.format(text=text)
 
     response = client.chat.completions.create(
-        # model="gpt-4.1-nano",
         model = "gpt-5-mini",
         messages=[{"role": "user", "content": prompt}],
-        # temperature=0
     )
     return response.choices[0].message.content.strip()
 
@@ -288,8 +284,6 @@ def text_main(INPUT_FILE, OUTPUT_FILE):
             encoding="utf-8-sig",
             header=not os.path.exists(OUTPUT_FILE) or i == 0
         )
-
-    print(f"✅ Triplets saved to {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     INPUT_FILE = ""  

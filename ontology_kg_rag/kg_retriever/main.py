@@ -11,9 +11,6 @@ from sentence_transformers import SentenceTransformer
 
 load_dotenv()
 
-# =============================
-# ========= EMBEDDING =========
-# =============================
 EMBED_MODEL = "all-MiniLM-L6-v2"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 EMBEDDER = SentenceTransformer(EMBED_MODEL, device=DEVICE)
@@ -32,9 +29,6 @@ def embed_long_document_st(text: str, model: SentenceTransformer, max_length=512
     v = model.encode([text], convert_to_numpy=True, normalize_embeddings=True)[0]
     return v.astype(np.float32)
 
-# =============================
-# ========= TITLE INDEX =======
-# =============================
 import pickle
 
 def load_index(pkl_path: str) -> Dict[str, Any]:
@@ -64,9 +58,6 @@ def search_index(index: Dict[str, Any], query: str, top_k: int = 5, threshold: f
     sel = valid_idx[order][:top_k]
     return [(index["titles"][i], float(scores[i]), int(i)) for i in sel]
 
-# =============================
-# ========= NEO4J HTTP ========
-# =============================
 AURA_HOSTNAME = os.getenv("AURA_HOSTNAME")
 AURA_USER     = os.getenv("AURA_USER")
 AURA_PASS     = os.getenv("AURA_PASS")
@@ -121,9 +112,6 @@ def _rows_to_dicts(keys: List[str], rows: List[List]) -> List[dict]:
         out.append(d)
     return out
 
-# =============================
-# ========= KG FETCH ==========
-# =============================
 def split_title_path(title: str) -> List[str]:
     parts = re.split(r"\s*(?:->|›|»|:|/|\\)\s*", title)
     parts = [p.strip() for p in parts if p.strip()]
@@ -266,9 +254,6 @@ def fetch_triples_global_mixed(doc_id: str, limit: int = 3000):
     all_rows.sort(key=lambda x: x[3], reverse=True)
     return all_rows[:limit]  # [(h, rel, t, w, page, bbox)]
 
-# =============================
-# ===== TABLE / SEMANTIC ======
-# =============================
 def explore_neighbors_guided(
     entities: Optional[List[str]],
     doc_id: str,
@@ -369,9 +354,6 @@ def explore_neighbors_guided(
         })
     return out
 
-# =============================
-# ========= RANKING ===========
-# =============================
 def zscore(arr: List[float]) -> List[float]:
     if not arr: return []
     mu = float(np.mean(arr))
@@ -435,9 +417,6 @@ def _path_prior_stub(w, page, bbox) -> float:
         elif w >= 0.8: score += 0.1 # 2-hop
     return score
 
-# =============================
-# ======== MIXED FETCH ========
-# =============================
 def fetch_triples_mixed_guided(
     doc_id: str,
     section_title_paths: Optional[List[str] | List[Tuple[str, int]]] = None,
@@ -521,9 +500,7 @@ def fetch_triples_mixed_guided(
     deduped.sort(key=lambda x: x.get("w", 0.0), reverse=True)
     return deduped
 
-# =============================
-# ========= HYBRID TOPK =======
-# =============================
+
 @dataclass
 class HybridHP:
     K_SEC: int = 30
@@ -578,9 +555,7 @@ def hybrid_retrieve_topk(
     selected = mmr_diversify(dedup, k=hp.K_FINAL, lambda_div=hp.MMR_LAMBDA, max_per_section=hp.MAX_PER_SECTION)
     return selected  # [(payload, score)]
 
-# =============================
-# ========= PROMPT / LLM ======
-# =============================
+
 SYSTEM_PROMPT = (
 """
 You are an expert in API SPEC documents.
@@ -638,9 +613,6 @@ def call_openai_chat(prompt: str, system: str = SYSTEM_PROMPT) -> str:
 def call_llm(prompt: str, system: str = SYSTEM_PROMPT) -> str:
     return call_openai_chat(prompt, system)
 
-# =============================
-# ======== END-TO-END =========
-# =============================
 def answer_hybrid(
     doc_id: str,
     title_paths,                # str | list[str] | list[tuple[str,int]]

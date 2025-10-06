@@ -277,4 +277,3 @@ if __name__ == "__main__":
         df = pd.read_json(f"file_path", lines=True)
         rows = rows_from_df(df, DOC_name, DOC_name)
         load_rows(rows)
-        print(f"{DOC_name} finish!")
