@@ -72,7 +72,7 @@ def save_index(merged_df: pd.DataFrame, pkl_path):
 if __name__ == "__main__":
     doc_list = ["A6A6M_14", "API_2W"]
     for doc_name in doc_list:
-        a578 = pd.read_excel("file_path")
+        a578 = pd.read_csv(f"./data/triplet/{data_name}_total.csv")
         merged = build_title_embeddings(a578, title_col="title", text_col="text")
 
         pkl_path = f"output_path"

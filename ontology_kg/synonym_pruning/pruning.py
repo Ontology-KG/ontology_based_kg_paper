@@ -335,8 +335,8 @@ if __name__ == "__main__":
     data_name = "YOUR_DATA_NAME"
     print(data_name)
 
-    edge_df = pd.read_csv(f"path/to/{data_name}_triplet_edge.csv")
-    df = pd.read_excel(f"path/to/{data_name}_triplet_total.xlsx")
+    edge_df = pd.read_csv(f"./data/cluster/{data_name}_edge.csv")
+    df = pd.read_csv(f"./data/triplet/{data_name}_total.csv")
 
     df["parsed_triplets"] = df["triplets"].apply(extract_triplets)
     df["canonical_triplets"] = replace_with_representative(df)

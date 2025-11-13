@@ -680,8 +680,8 @@ def answer_hybrid(
 if __name__ == "__main__":
     DOC_LIST = ["API_2W"]
     for DOC_ID in DOC_LIST:
-        index = load_index(f"{DOC_ID}_title_embeddings.pkl")
-        qa_dataset = pd.read_json("file_path", lines=True)
+        index = load_index(f"./data/kg_rag/{DOC_ID}_title_embeddings.pkl")
+        qa_dataset = pd.read_json(f'./data/QA/{DOC_ID}/{DOC_ID}_qa.jsonl', lines=True)
         
         # 샘플하겠다!
         qa_dataset = qa_dataset.sample(frac=1).reset_index(drop=True)

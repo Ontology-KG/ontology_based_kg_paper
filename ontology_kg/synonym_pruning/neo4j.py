@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 import json, math, re, time, requests, hashlib, ast
 from typing import Iterable, Dict, Any, List
+from dotenv import load_dotenv
 import os
 
+load_dotenv()  # .env 불러오기
 BATCH_SIZE = 500
 # ====================================================
 # BBOX
@@ -272,8 +274,8 @@ def load_rows(rows: Iterable[Dict[str, Any]]):
 if __name__ == "__main__":
     import pandas as pd
     data = ["A578A578M_07", "API_2W", "A6A6M_14"]
-    for DOC_name in ["API_2W"]:
+    for DOC_name in ["A578A578M_07"]:
         print(f"{DOC_name} start!")
-        df = pd.read_json(f"file_path", lines=True)
+        df = pd.read_json(f"./data/kg_data/{DOC_name}_kg.jsonl", lines=True)
         rows = rows_from_df(df, DOC_name, DOC_name)
         load_rows(rows)

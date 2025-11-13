@@ -891,8 +891,8 @@ if __name__ == "__main__":
     # data_name = "A6A6M_14_triplet"
     data_name = "API_2W_triplet"
 
-    df_text = pd.read_csv(f"text_path")
-    df_table = pd.read_csv(f"table_path")
+    df_text = pd.read_csv(f"./data/triplet/{data_name}_text.csv")
+    df_table = pd.read_csv(f"./data/triplet/{data_name}_table.csv")
     df = pd.concat([df_text, df_table])
     df = df.sort_values("sort_id")
     df.reset_index(drop=True, inplace=True)
@@ -915,7 +915,7 @@ if __name__ == "__main__":
         prob_thresh=0.2,
         include_noise=True  
     )
-    entity_dict.to_csv(f"entity_output_path", index=False)
+    entity_dict.to_csv(f"./data/cluster/{data_name}_entity.csv’", index=False)
     print("entity finish")
     
 
@@ -956,6 +956,6 @@ if __name__ == "__main__":
     print(f"\ncount- {len(excluded_rels)} : cluster_id = -1")
 
 
-    rel_dict.to_csv(f"output_path", index=False)
+    rel_dict.to_csv(f"./data/cluster/{data_name}_edge.csv", index=False)
     print("edge finish")
     
