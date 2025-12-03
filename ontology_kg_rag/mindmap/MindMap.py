@@ -52,7 +52,6 @@ def _encode_normalized(texts: List[str], batch_size: int = 64) -> np.ndarray:
 
 
 def _cosine_topk_batch(q_embs: np.ndarray, k: int) -> Tuple[np.ndarray, np.ndarray]:
-    """정규화된 q_embs와 ENTITY_EMB 간 코사인 유사도 top-k 인덱스(부분정렬) 반환"""
     sims = np.dot(q_embs, ENTITY_EMB.T)                        # (B, N)
     part = np.argpartition(sims, -k, axis=1)[:, -k:]           # (B, k)
     rows = np.arange(sims.shape[0])[:, None]
@@ -177,7 +176,7 @@ SYSTEM_PROMPT = """You are an expert in technical standard documents.
 Answer only based on the given evidence.
 Reply with a concise factual answer or 'I don't know' if not found.
 """
-#--------------추가
+
 from itertools import combinations
 
 def safe_label(node):
@@ -418,7 +417,7 @@ def run_qa_dataset(input_path: str, output_path: str, doc_id: str, limit: int = 
 
 
 if __name__ == "__main__":
-    DOC_ID = "API_2W"  # 예: "A578A578M_07", "API_2W", "A6A6M_14" API_2W_remove_pruning API_2W_remove_sameword
+    DOC_ID = "API_2W"  # "A578A578M_07", "API_2W", "A6A6M_14" API_2W_remove_pruning API_2W_remove_sameword
     run_qa_dataset(
         input_path="QA/type/API_2W_boolean_v2_half.jsonl",
         output_path="output/api_boolean/API_2W_boolean_new.jsonl",
