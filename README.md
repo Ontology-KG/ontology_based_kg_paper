@@ -42,10 +42,10 @@ ontology_based_kg_paper
 │
 └── data/
     ├── triplet/           # 추출된 triple
-    ├── cluster/           # 동의어 사전
-    ├── kg_data/           # Neo4j 넣는 최종 KG
+    ├── synomy_output/           # 동의어 사전
+    ├── pruning_ouput/           # Neo4j 넣는 최종 KG
     ├── kg_rag/            # title embedding
-    ├── QA/                # QA dataset
+    ├── QA_data/                # QA dataset
     └── output/            # RAG/MindMap 결과
 ```
 
