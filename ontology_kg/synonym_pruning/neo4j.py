@@ -276,6 +276,6 @@ if __name__ == "__main__":
     data = ["A578A578M_07", "API_2W", "A6A6M_14"]
     for DOC_name in ["A578A578M_07"]:
         print(f"{DOC_name} start!")
-        df = pd.read_json(f"./data/kg_data/{DOC_name}_kg.jsonl", lines=True)
+        df = pd.read_json(f"./pruning_output/{DOC_name}_kg.jsonl", lines=True)
         rows = rows_from_df(df, DOC_name, DOC_name)
         load_rows(rows)

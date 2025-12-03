@@ -298,8 +298,8 @@ def main(input_csv):
     return labeled_df
 
 if __name__ == "__main__":
-    input_csv = "YOUR_INPUT_FILE.csv"  # <-- Replace with your input CSV path
-
+    # input_csv = "YOUR_INPUT_FILE.csv"  # <-- Replace with your input CSV path
+    input_csv = "/home/hyuna/hyuna/ai_fellow/data/spec/A6A6M_14_parsing.csv"
     output_csv = input_csv.replace('.csv', '_labeled.csv')
     labeled_df = main(input_csv)
     labeled_df.to_csv(output_csv, index=False, encoding='utf-8')
