@@ -1,0 +1,1494 @@
+chunk_id,file_id,sort_id,content,page,total_page,coordinates,reg_id,reg_date,upd_id,upd_date
+1020,2,118,# 6.1 Tensile,10,27,"[[0.1317, 0.6227], [0.2377, 0.6227], [0.2377, 0.6375], [0.1317, 0.6375]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+902,2,0,"Copyrighted
+No
+further
+reproduction
+material
+licensed
+or
+networking
+to
+Joost
+den
+is
+permitted.
+Herder
+on
+2019-03-19
+Distributed
+for
+by
+licensee
+Clarivate
+'s
+Analytics
+use
+only.
+(US)
+LLC,
+WWW.
+techstreet
+.com.",1,27,"[[0.948, 0.058], [0.9796, 0.058], [0.9796, 0.4556], [0.948, 0.4556]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+903,2,1,"# Steel Plates Produced by
+Thermo-Mechanically Controlled
+Processing for Offshore Structures",1,27,"[[0.1781, 0.2276], [0.7901, 0.2276], [0.7901, 0.3193], [0.1781, 0.3193]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+904,2,2,"API SPECIFICATION 2W
+SIXTH EDITION, JANUARY 2019",1,27,"[[0.179, 0.4081], [0.5179, 0.4081], [0.5179, 0.4455], [0.179, 0.4455]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+905,2,3,"API MONOGRAM PROGRAM EFFECTIVE DATE: AUGUST 1, 2019",1,27,"[[0.1798, 0.4618], [0.8522, 0.4618], [0.8522, 0.4816], [0.1798, 0.4816]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+906,2,4,energyAPI,1,27,"[[0.1359, 0.7753], [0.2933, 0.7753], [0.2933, 0.8165], [0.1359, 0.8165]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+907,2,5,AMERICAN PETROLEUM INSTITUTE,1,27,"[[0.1844, 0.8211], [0.4573, 0.8211], [0.4573, 0.8354], [0.1844, 0.8354]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+908,2,6,# Special Notes,2,27,"[[0.09, 0.1514], [0.2156, 0.1514], [0.2156, 0.167], [0.09, 0.167]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+909,2,7,"API publications necessarily address problems of a general nature. With respect to particular circumstances, local,
+state, and federal laws and regulations should be reviewed.",2,27,"[[0.0905, 0.1844], [0.8842, 0.1844], [0.8842, 0.2122], [0.0905, 0.2122]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+910,2,8,"Neither API nor any of API's employees, subcontractors, consultants, committees, or other assignees make any
+warranty or representation, either express or implied, with respect to the accuracy, completeness, or usefulness of the
+information contained herein, or assume any liability or responsibility for any use, or the results of such use, of any
+information or process disclosed in this publication. Neither API nor any of API's employees, subcontractors,
+consultants, or other assignees represent that use of this publication would not infringe upon privately owned rights.",2,27,"[[0.0907, 0.2245], [0.8849, 0.2245], [0.8849, 0.2924], [0.0907, 0.2924]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+911,2,9,"Users of this specification should not rely exclusively on the information contained in this document. Sound business,
+scientific, engineering, and safety judgment should be used in employing the information contained herein.",2,27,"[[0.0913, 0.3048], [0.8849, 0.3048], [0.8849, 0.3331], [0.0913, 0.3331]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+912,2,10,"API publications may be used by anyone desiring to do so. Every effort has been made by the Institute to assure the
+accuracy and reliability of the data contained in them; however, the Institute makes no representation, warranty, or
+guarantee in connection with this publication and hereby expressly disclaims any liability or responsibility for loss or
+damage resulting from its use or for the violation of any authorities having jurisdiction with which this publication may
+conflict.",2,27,"[[0.0914, 0.3444], [0.8855, 0.3444], [0.8855, 0.4119], [0.0914, 0.4119]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+913,2,11,"API publications are published to facilitate the broad availability of proven, sound engineering and operating
+practices. These publications are not intended to obviate the need for applying sound engineering judgment
+regarding when and where these publications should be utilized. The formulation and publication of API publications
+is not intended in any way to inhibit anyone from using any other practices.",2,27,"[[0.0912, 0.4245], [0.8873, 0.4245], [0.8873, 0.4798], [0.0912, 0.4798]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+914,2,12,"Any manufacturer marking equipment or materials in conformance with the marking requirements of an API standard
+is solely responsible for complying with all the applicable requirements of that standard. API does not represent,
+warrant, or guarantee that such products do in fact conform to the applicable API standard.",2,27,"[[0.0917, 0.4918], [0.8876, 0.4918], [0.8876, 0.5329], [0.0917, 0.5329]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+915,2,13,"All rights reserved. No part of this work may be reproduced, translated, stored in a retrieval system, or transmitted by any means,
+electronic, mechanical, photocopying, recording, or otherwise, without prior written permission from the publisher. Contact the
+Publisher, API Publishing Services, 1220 L Street, NW, Washington, DC 20005.",2,27,"[[0.0938, 0.7899], [0.8855, 0.7899], [0.8855, 0.8288], [0.0938, 0.8288]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+916,2,14,Copyright Ⓒ 2018 American Petroleum Institute,2,27,"[[0.3449, 0.8393], [0.6388, 0.8393], [0.6388, 0.853], [0.3449, 0.853]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+917,2,15,"Copyrighted
+No
+further
+material
+reproduction licensed
+or
+networking Joost
+to
+5 permitted.
+den
+Herder
+on
+2019-03-19
+Distributed
+for
+by
+licensee
+Clar
+ivate
+S
+use
+Analytics
+only.
+(US)
+LLC,
+WWW
+techstreet
+com.",2,27,"[[0.951, 0.0553], [0.9766, 0.0553], [0.9766, 0.4577], [0.951, 0.4577]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+918,2,16,# Foreword,3,27,"[[0.0865, 0.1493], [0.1763, 0.1493], [0.1763, 0.164], [0.0865, 0.164]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+919,2,17,"Nothing contained in any API publication is to be construed as granting any right, by implication or otherwise, for the
+manufacture, sale, or use of any method, apparatus, or product covered by letters patent. Neither should anything
+contained in the publication be construed as insuring anyone against liability for infringement of letters patents.",3,27,"[[0.0861, 0.1822], [0.8832, 0.1822], [0.8832, 0.224], [0.0861, 0.224]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+920,2,18,The verbal forms used to express the provisions in this document are as follows.,3,27,"[[0.0867, 0.235], [0.6368, 0.235], [0.6368, 0.2494], [0.0867, 0.2494]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+921,2,19,"Shall: As used in a standard, ""shall"" denotes a minimum requirement in order to conform to the standard.",3,27,"[[0.088, 0.2619], [0.799, 0.2619], [0.799, 0.276], [0.088, 0.276]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+922,2,20,"Should: As used in a standard, ""should"" denotes a recommendation or that which is advised but not required in order
+to conform to the standard.",3,27,"[[0.0865, 0.2887], [0.8832, 0.2887], [0.8832, 0.3155], [0.0865, 0.3155]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+923,2,21,"May: As used in a standard, ""may"" denotes a course of action permissible within the limits of a standard.",3,27,"[[0.0854, 0.329], [0.7948, 0.329], [0.7948, 0.3429], [0.0854, 0.3429]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+924,2,22,"Can: As used in a standard, ""can"" denotes a statement of possibility or capability.",3,27,"[[0.0871, 0.3551], [0.6389, 0.3551], [0.6389, 0.37], [0.0871, 0.37]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+925,2,23,"This document was produced under API standardization procedures that ensure appropriate notification and
+participation in the developmental process and is designated as an API standard. Questions concerning the
+interpretation of the content of this publication or comments and questions concerning the procedures under which
+this publication was developed should be directed in writing to the Director of Standards, American Petroleum
+Institute, 1220 L Street, NW, Washington, DC 20005. Requests for permission to reproduce or translate all or any part
+of the material published herein should also be addressed to the director.",3,27,"[[0.0854, 0.3814], [0.8845, 0.3814], [0.8845, 0.4622], [0.0854, 0.4622]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+926,2,24,"For API Monogram Program licensees and APIQR Program registrants, this document shall become effective on the
+program date printed on the cover but may be used voluntarily from the date of publication.",3,27,"[[0.0585, 0.4743], [0.8816, 0.4743], [0.8816, 0.5027], [0.0585, 0.5027]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+927,2,25,"Generally, API standards are reviewed and revised, reaffirmed, or withdrawn at least every five years. A one-time
+extension of up to two years may be added to this review cycle. Status of the publication can be ascertained from the
+API Standards Department, telephone (202) 682-8000. A catalog of API publications and materials is published
+annually and updated quarterly by API, 1220 L Street, NW, Washington, D.C. 20005.",3,27,"[[0.0875, 0.5149], [0.884, 0.5149], [0.884, 0.5699], [0.0875, 0.5699]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1107,2,205,9,15,27,"[[0.8529, 0.0934], [0.8644, 0.0934], [0.8644, 0.1031], [0.8529, 0.1031]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+928,2,26,"Suggested revisions are invited and should be submitted to the Standards Department, API, 1220 L Street, NW,
+Washington, DC 20005, standards@api.org.",3,27,"[[0.0873, 0.5812], [0.8824, 0.5812], [0.8824, 0.6095], [0.0873, 0.6095]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+929,2,27,iii,3,27,"[[0.4706, 0.8739], [0.4845, 0.8739], [0.4845, 0.884], [0.4706, 0.884]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+930,2,28,"Copyrighted
+No
+further
+reproduct
+material
+licensed
+ion
+or
+networking
+to
+Joost
+is
+den
+permitted.
+Herder
+on
+2019-03-19
+Distributed
+for
+by
+licensee
+Clarivate
+'S
+Analytics
+use
+only.
+(US)
+LLC,
+WWW.
+techstreet
+
+com.",3,27,"[[0.9458, 0.0499], [0.9739, 0.0499], [0.9739, 0.4538], [0.9458, 0.4538]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+931,2,29,"Copyr ighted material licensed to Joost den Herder on 2019-03-19 for licensee S use only.
+No further reproduct ion or networking is permitted. Distributed by Clar ivate Analytics (US) LLC, www. techstreet. com,",4,27,"[[0.9777, 0.0555], [0.977, 0.4537], [0.9492, 0.4536], [0.9499, 0.0555]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+932,2,30,Contents,5,27,"[[0.1077, 0.1562], [0.1928, 0.1562], [0.1928, 0.1718], [0.1077, 0.1718]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+933,2,31,Page,5,27,"[[0.8639, 0.189], [0.8999, 0.189], [0.8999, 0.2029], [0.8639, 0.2029]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+934,2,32,"1 Scope 1
+1.1 Coverage 1
+1.2 Application of the API Monogram 1
+2 Normative References 1
+3 Abbreviations 1
+4 Manufacturing ■ 2
+4.1 Steelmaking Practice 2
+4.2 Rolling - 2
+4.3 Post-manufacturing Heating 2
+4.4 Preproduction Qualification · 3
+4.5 General Requirements for Delivery 3
+5 Chemical Requirements 3
+6 Mechanical Requirements 4
+6.1 Tensile 4
+6.2 Through-Thickness · ■ 5
+7 Notch Toughness Requirements ■ 5
+7.1 Notch Impact Testing · 5
+7.2 Notch Impact Retesting 5
+7.3 Notch Toughness Supplements 6
+7.4 Alternative Toughness Tests 6
+8 Marking 6
+Annex A (informative) API Monogram Program-Use of the API Monogram by Licensees 7
+Annex B (informative) Description of Thermo-mechanically Controlled Processing (TMCP) 11
+Annex C (informative) Supplementary Requirements · · 12
+Annex D (informative) Suggestions for Ordering API 2W Steel Plate 18
+Bibliography 19
+Figures
+B.1 Schematic Diagrams of Conventional and TMCP of Steel Plates · 11
+Tables
+1 Chemical Requirements (Heat Analysis, %). 3
+2 Carbon Equivalent or Composition Parameter Maximums 4
+3 Tensile Requirements 4
+4 Notch Toughness Requirements, Charpy V-Notch Testing 5
+C.1 Notch Toughness Requirements at Lower Temperatures for Charpy V-Notch Impact Testing 12
+D.1 Purchase Order Information. 18
+D.2 Supplementary Requirements 18",5,27,"[[0.0965, 0.1937], [0.9104, 0.1937], [0.9104, 0.7934], [0.0965, 0.7934]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+935,2,33,V,5,27,"[[0.473, 0.8762], [0.4868, 0.8762], [0.4868, 0.8857], [0.473, 0.8857]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+936,2,34,"Copyrighted
+No
+further
+reproduction
+material
+licensed
+or
+networking
+to
+Joost
+is
+den
+permitted.
+Herder
+on
+2019-03-19
+Distributed
+for
+by
+licensee
+Clarivate
+'s
+Analytics
+use
+only.
+(US)
+LLC,
+www.
+techstreet.
+com.",5,27,"[[0.947, 0.0524], [0.9752, 0.0524], [0.9752, 0.4531], [0.947, 0.4531]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+937,2,35,"Copyrighted material licensed to Joost den Herder on 2019-03-19 for licensee 's use only.
+No further reproduction or networking is permitted. Distributed by Clarivate Analytics (US) LLC, www. techstreet. com.",6,27,"[[0.9759, 0.0572], [0.9753, 0.4546], [0.9478, 0.4546], [0.9484, 0.0572]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+938,2,36,"Steel Plates Produced by Thermo-Mechanically Controlled Processing
+for Offshore Structures",7,27,"[[0.1534, 0.1318], [0.8334, 0.1318], [0.8334, 0.1699], [0.1534, 0.1699]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+939,2,37,# 1 Scope,7,27,"[[0.1246, 0.2063], [0.2189, 0.2063], [0.2189, 0.2219], [0.1246, 0.2219]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+940,2,38,1.1 Coverage,7,27,"[[0.1258, 0.2345], [0.2516, 0.2345], [0.2516, 0.25], [0.1258, 0.25]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+941,2,39,"This specification covers four grades of steel plates that are to be produced by thermo-mechanically
+controlled processing (TMCP) for use in welded construction of offshore structures.",7,27,"[[0.1244, 0.2614], [0.8653, 0.2614], [0.8653, 0.289], [0.1244, 0.289]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+942,2,40,1.2 Application of the API Monogram,7,27,"[[0.1244, 0.3], [0.447, 0.3], [0.447, 0.3167], [0.1244, 0.3167]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+943,2,41,"If the product is manufactured at a facility licensed by API and is intended to be supplied bearing the API
+Monogram, the requirements of Annex A apply.",7,27,"[[0.1257, 0.3274], [0.8654, 0.3274], [0.8654, 0.3557], [0.1257, 0.3557]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+944,2,42,2 Normative References,7,27,"[[0.1242, 0.3729], [0.3609, 0.3729], [0.3609, 0.3893], [0.1242, 0.3893]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+945,2,43,"The following referenced documents are indispensable for the application of this document. For dated
+references, only the edition cited applies. For undated references, the latest edition of the referenced
+document (including any addenda or errata) applies.",7,27,"[[0.1242, 0.4014], [0.8663, 0.4014], [0.8663, 0.4412], [0.1242, 0.4412]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+946,2,44,"API Recommended Practice 2Z, Preproduction Qualification for Steel Plates for Offshore Structures",7,27,"[[0.1245, 0.4529], [0.8243, 0.4529], [0.8243, 0.467], [0.1245, 0.467]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+947,2,45,"ASTM1 A6/A6M, Standard Specification for General Requirements for Rolled Structural Steel Bars, Plates,
+Shapes, and Sheet Piling",7,27,"[[0.1248, 0.4785], [0.8652, 0.4785], [0.8652, 0.506], [0.1248, 0.506]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+948,2,46,"ASTM A370, Standard Test Methods and Definitions for Mechanical Testing of Steel Products",7,27,"[[0.1247, 0.5172], [0.7631, 0.5172], [0.7631, 0.5325], [0.1247, 0.5325]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+949,2,47,"ASTM A578/A578M, Standard Specification for Straight-Beam Ultrasonic Examination of Rolled Steel Plates
+for Special Applications",7,27,"[[0.1243, 0.5436], [0.8675, 0.5436], [0.8675, 0.5708], [0.1243, 0.5708]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+950,2,48,"ASTM A673, Standard Terminology Relating to Surface Analysis",7,27,"[[0.1253, 0.5826], [0.5822, 0.5826], [0.5822, 0.5971], [0.1253, 0.5971]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+951,2,49,"ASTM E10, Standard Test Method for Brinell Hardness of Metallic Materials",7,27,"[[0.1253, 0.6081], [0.6587, 0.6081], [0.6587, 0.6227], [0.1253, 0.6227]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+952,2,50,"ASTM E23, Standard Test Methods for Notched Bar Impact Testing of Metallic Materials",7,27,"[[0.1259, 0.6341], [0.7465, 0.6341], [0.7465, 0.6487], [0.1259, 0.6487]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+953,2,51,"ASTM E208, Standard Test Method for Conducting Drop-Weight Test to Determine Nil-Ductility Transition
+Temperature of Ferritic Steels",7,27,"[[0.1267, 0.6603], [0.8682, 0.6603], [0.8682, 0.6881], [0.1267, 0.6881]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+954,2,52,# 3 Abbreviations,7,27,"[[0.1259, 0.7056], [0.2885, 0.7056], [0.2885, 0.7215], [0.1259, 0.7215]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+955,2,53,"| ACC | accelerated cooling |
+| --- | --- |
+| CP | conventional preheat |
+| CR | controlled rolling |
+",7,27,"[[0.1259, 0.7338], [0.3445, 0.7338], [0.3445, 0.8053], [0.1259, 0.8053]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+956,2,54,"1 American Society for Testing and Materials, 100 Barr Harbor Drive, West Conshohocken, Pennsylvania 19428-2959,
+www.astm.org.",7,27,"[[0.125, 0.8264], [0.8675, 0.8264], [0.8675, 0.8533], [0.125, 0.8533]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+957,2,55,"Copyrighted
+No
+further
+reproduct
+material
+ion
+licensed
+or
+networking
+to
+Joost
+is den
+permitted.
+Herder
+on
+2019-03-19
+Distributed
+for
+by
+licensee
+Clarivate S
+Analytics
+use
+only.
+(US)
+LLC,
+techstreet
+com,",7,27,"[[0.9486, 0.059], [0.9765, 0.059], [0.9765, 0.4542], [0.9486, 0.4542]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+958,2,56,2,8,27,"[[0.1292, 0.0959], [0.1385, 0.0959], [0.1385, 0.1048], [0.1292, 0.1048]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+959,2,57,API SPECIFICATION2W,8,27,"[[0.459, 0.0929], [0.5931, 0.0929], [0.5931, 0.1062], [0.459, 0.1062]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+960,2,58,CTOD crack tip opening displacement,8,27,"[[0.1276, 0.1342], [0.4073, 0.1342], [0.4073, 0.1499], [0.1276, 0.1499]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+961,2,59,CTS,8,27,"[[0.1291, 0.1615], [0.164, 0.1615], [0.164, 0.1737], [0.1291, 0.1737]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+962,2,60,controlled thermal severity,8,27,"[[0.1499, 0.1605], [0.3723, 0.1605], [0.3723, 0.1756], [0.1499, 0.1756]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+963,2,61,MP,8,27,"[[0.1292, 0.1877], [0.1562, 0.1877], [0.1562, 0.1994], [0.1292, 0.1994]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+964,2,62,modified preheat,8,27,"[[0.184, 0.1878], [0.3075, 0.1878], [0.3075, 0.2009], [0.184, 0.2009]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+965,2,63,# SMYS specified minimum yield strength,8,27,"[[0.1296, 0.213], [0.4167, 0.213], [0.4167, 0.2275], [0.1296, 0.2275]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+966,2,64,supplementary requirement,8,27,"[[0.1559, 0.2389], [0.3806, 0.2389], [0.3806, 0.2538], [0.1559, 0.2538]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+967,2,65,SR,8,27,"[[0.1292, 0.24], [0.1551, 0.24], [0.1551, 0.2518], [0.1292, 0.2518]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+968,2,66,TMCP thermo-mechanically controlled processing,8,27,"[[0.1277, 0.2652], [0.4871, 0.2652], [0.4871, 0.2803], [0.1277, 0.2803]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+969,2,67,# TMR thermo-mechanical rolling,8,27,"[[0.1292, 0.2911], [0.3698, 0.2911], [0.3698, 0.3058], [0.1292, 0.3058]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+970,2,68,# 4 Manufacturing,8,27,"[[0.1284, 0.3183], [0.2959, 0.3183], [0.2959, 0.3337], [0.1284, 0.3337]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+971,2,69,# 4.1 Steelmaking Practice,8,27,"[[0.1277, 0.3419], [0.3508, 0.3419], [0.3508, 0.3581], [0.1277, 0.3581]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+972,2,70,The steel shall be made by the basic oxygen or electric furnace process.,8,27,"[[0.1282, 0.3688], [0.6351, 0.3688], [0.6351, 0.3843], [0.1282, 0.3843]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+973,2,71,# 4.2 Rolling,8,27,"[[0.1282, 0.3946], [0.2364, 0.3946], [0.2364, 0.4112], [0.1282, 0.4112]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+974,2,72,"4.2.1 The plates shall be produced by TMCP. A general description of the TMCP method is given in
+Annex B.",8,27,"[[0.1275, 0.4216], [0.8681, 0.4216], [0.8681, 0.4496], [0.1275, 0.4496]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+975,2,73,"4.2.2 One of the following processes used to manufacture the plate shall be identified on the mill
+certificates:",8,27,"[[0.1276, 0.4603], [0.8693, 0.4603], [0.8693, 0.4887], [0.1276, 0.4887]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+976,2,74,"- a) thermo-mechanical rolling (TMR) alone (but may also include CR);
+",8,27,"[[0.13, 0.5001], [0.6247, 0.5001], [0.6247, 0.5141], [0.13, 0.5141]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+977,2,75,"- b) TMR combined with accelerated cooling (ACC);
+",8,27,"[[0.1299, 0.5265], [0.4968, 0.5265], [0.4968, 0.5407], [0.1299, 0.5407]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+978,2,76,"- c) TMR combined with tempering or aging; or
+",8,27,"[[0.1311, 0.5526], [0.462, 0.5526], [0.462, 0.5669], [0.1311, 0.5669]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+979,2,77,"- d) TMR combined with both ACC and tempering or aging.
+",8,27,"[[0.1308, 0.5783], [0.546, 0.5783], [0.546, 0.5933], [0.1308, 0.5933]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+980,2,78,"The manufacturer's process shall be identified with a code number or designation for ready reference,
+sufficient to provide traceability of process variables; it is not the intent to require the disclosure of
+confidential information.",8,27,"[[0.1293, 0.6043], [0.8698, 0.6043], [0.8698, 0.6442], [0.1293, 0.6442]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+981,2,79,"When SR 9 is required, the addition or deletion of tempering or aging shall be considered a major
+essential variable (reference API 2Z table on Tolerances for Minor and Major Changes in Melting, Casing,
+and Processing Variables Other Than Chemistry). If SR 9 is not required, addition or deletion of
+tempering or aging shall be at the discretion of the manufacturer. When tempering or aging is performed,
+the tempering or aging temperature shall be included on the mill certificates.",8,27,"[[0.1287, 0.656], [0.8706, 0.656], [0.8706, 0.7218], [0.1287, 0.7218]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+982,2,80,# 4.3 Post-manufacturing Heating,8,27,"[[0.1292, 0.7336], [0.4091, 0.7336], [0.4091, 0.7491], [0.1292, 0.7491]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+983,2,81,"Plates manufactured to this specification shall not be warm formed or post-weld heat treated at
+temperatures:",8,27,"[[0.1304, 0.7601], [0.8707, 0.7601], [0.8707, 0.7877], [0.1304, 0.7877]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+984,2,82,"- a) above 1100 °F (595 °C); or
+",8,27,"[[0.1311, 0.7993], [0.3553, 0.7993], [0.3553, 0.8139], [0.1311, 0.8139]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+985,2,83,"- b) more than 50 °F (38 °C) below the original manufacturing tempering or aging temperature (if
+- applicable) due to risk of sustaining irreversible and significant losses in strength and toughness.
+",8,27,"[[0.1294, 0.8251], [0.8729, 0.8251], [0.8729, 0.8528], [0.1294, 0.8528]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+986,2,84,"Copyrighted
+No
+further
+reproduction
+materlal
+licensed
+JO
+networkTng
+to
+Joost
+den
+is
+permitted. on
+Herder
+2019-03-19
+Distributed
+for
+by licensee 's
+Clarivate
+Analytics only.
+use
+(US)
+LLC.
+techstreet
+com.",8,27,"[[0.9499, 0.0586], [0.9777, 0.0586], [0.9777, 0.4562], [0.9499, 0.4562]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+987,2,85,STEEL PLATES PRODUCED BY THERMO-MECHANICALLY CONTROLLED PROCESSING FOR OFFSHORE STRUCTURES,9,27,"[[0.2155, 0.0912], [0.8585, 0.0912], [0.8585, 0.1043], [0.2155, 0.1043]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+988,2,86,3,9,27,"[[0.854, 0.0934], [0.8644, 0.0934], [0.8644, 0.1023], [0.854, 0.1023]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+989,2,87,"Post-weld heat treatment or warm-forming temperatures between 400 °F (205 °C) and either of the above
+shall require testing to SR 7 in Annex C. Verification or simulation is not necessary for heating at
+temperatures below 400 °F (205 °C).",9,27,"[[0.1249, 0.1321], [0.8668, 0.1321], [0.8668, 0.1727], [0.1249, 0.1727]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+990,2,88,4.4 Preproduction Qualification,9,27,"[[0.1237, 0.1833], [0.4016, 0.1833], [0.4016, 0.199], [0.1237, 0.199]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+991,2,89,"The SR 9 supplement in Annex C shall require testing in accordance with the plate preproduction
+qualification requirements of API 2Z. These tests evaluate HAZ hydrogen cracking resistance and
+CTOD HAZ toughness that may be desirable for demonstrating superior service performance. The SR 9
+supplement shall require contractual specification prior to steel production. For Grades 50 and 60, SR 9 is
+optional. For Grades 70 and 80, SR 9 shall be required.",9,27,"[[0.1246, 0.2106], [0.8658, 0.2106], [0.8658, 0.2758], [0.1246, 0.2758]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+992,2,90,4.5 General Requirements for Delivery,9,27,"[[0.1242, 0.2878], [0.4579, 0.2878], [0.4579, 0.3033], [0.1242, 0.3033]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+993,2,91,"Material furnished to this specification shall conform to the applicable requirements of ASTM A6/A6M, as
+modified herein. See Annex D for suggestions when ordering API 2W steel plates.",9,27,"[[0.1248, 0.3152], [0.8652, 0.3152], [0.8652, 0.343], [0.1248, 0.343]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+994,2,92,# 5 Chemical Requirements,9,27,"[[0.1258, 0.3542], [0.3765, 0.3542], [0.3765, 0.3701], [0.1258, 0.3701]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+995,2,93,"5.1 The steels shall conform to the requirements for chemical composition, as determined by heat
+analysis, prescribed in Table 1 and to the requirements of 5.2 through 5.5. All elements intentionally
+added, and any element listed in 5.2 or Table 1, shall be included in the heat analysis for the steel.",9,27,"[[0.1226, 0.3788], [0.8673, 0.3788], [0.8673, 0.4191], [0.1226, 0.4191]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+996,2,94,"Table 1-Chemical Requirements (Heat Analysis, %)",9,27,"[[0.298, 0.4303], [0.6933, 0.4303], [0.6933, 0.4449], [0.298, 0.4449]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1016,2,114,"5.4 Any element intentionally added, or that appears in the carbon equivalent or composition
+parameter calculation, shall be reported.",10,27,"[[0.1283, 0.4903], [0.8688, 0.4903], [0.8688, 0.5181], [0.1283, 0.5181]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1017,2,115,"5.5 Vanadium, zirconium, cerium, and other rare-earth metals shall not be intentionally added without
+approval from the purchaser.",10,27,"[[0.1295, 0.5294], [0.8703, 0.5294], [0.8703, 0.5573], [0.1295, 0.5573]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1018,2,116,"If any of the above elements are added, the plate shall have additional markings in accordance with 8 b).",10,27,"[[0.1308, 0.5685], [0.8582, 0.5685], [0.8582, 0.5832], [0.1308, 0.5832]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+997,2,95,"| Element | Grades 50 | Grade 60 | Grades 70 | Grade 80 |
+| --- | --- | --- | --- | --- |
+| Carbon, max | 0.12 | 0.12 | 0.10 | 0.10 |
+| Manganese | 1.15-1.60 a | 1.15-1.60 a | 2.0 max | 2.0 max |
+| Phosphorus, max | 0.020 | 0.020 | 0.020 | 0.020 |
+| Sulfur, max | 0.010 | 0.010 | 0.010 | 0.010 |
+| Silicon | 0.05-0.50 b | 0.05-0.50 b | 0.50 max | 0.50 max |
+| Nickel, max | 0.75 | 1.0 | 1.50 | 1.50 |
+| Chromium, max | 0.25 | 0.25 | 0.60 | 0.60 |
+| Molybdenum, max | 0.08 C | 0.15 C | 0.50 | 0.50 |
+| Copper, max | 0.5 | 0.5 | 0.70 | 1.1 |
+| Titanium |  |  |  |  |
+| N ≤ 0.005 | 0.003-0.02 | 0.003-0.02 | 0.003-0.02 | 0.003-0.02 |
+| N > 0.005 | 0.007-0.02 | 0.007-0.02 | 0.007-0.02 | 0.007-0.02 |
+| Columbium (Niobium), max | 0.04 | 0.04 | 0.050 | 0.050 |
+| Nitrogen, max | 0.009 d | 0.009 d | 0.009 | 0.009 |
+| Boron, max | 0.0005 | 0.0005 | 0.0005 | 0.0005 |
+| Aluminum e |  |  |  |  |
+| Acid soluble or | 0.015-0.055 | 0.015-0.055 | 0.015-0.055 | 0.015-0.055 |
+| total | 0.02-0.06 | 0.02-0.06 | 0.02-0.06 | 0.02-0.06 |
+",9,27,"[[0.1381, 0.4499], [0.8571, 0.4499], [0.8571, 0.7523], [0.1381, 0.7523]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+998,2,96,a,9,27,"[[0.1409, 0.7574], [0.1478, 0.7574], [0.1478, 0.763], [0.1409, 0.763]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+999,2,97,"With the API 2Z preproduction qualification report, the max Mn value can be increased up to 2.00 %.",9,27,"[[0.1466, 0.7556], [0.7123, 0.7556], [0.7123, 0.7683], [0.1466, 0.7683]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1000,2,98,b Silicon may be less than 0.05% if included in the SR 9 preproduction qualification.,9,27,"[[0.1406, 0.7696], [0.6093, 0.7696], [0.6093, 0.7823], [0.1406, 0.7823]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1001,2,99,"C For Grades 50 and 60, when Pom ≤ Table 2 and C is ≤ 0.10 %, with the API 2Z preproduction qualification report, the max",9,27,"[[0.1406, 0.7835], [0.8528, 0.7835], [0.8528, 0.7967], [0.1406, 0.7967]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1002,2,100,Mo value can be 0.21 %.,9,27,"[[0.1516, 0.7946], [0.2949, 0.7946], [0.2949, 0.8054], [0.1516, 0.8054]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1003,2,101,"d For Grades 50 and 60, nitrogen may be 0.013 % max if titanium is 0.010-0.02 %.",9,27,"[[0.1401, 0.8082], [0.6064, 0.8082], [0.6064, 0.8206], [0.1401, 0.8206]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1004,2,102,"e When non-Al deoxidation elements are used in accordance with this table, the minimum AI value is not applicable when the",9,27,"[[0.1412, 0.8215], [0.8527, 0.8215], [0.8527, 0.8338], [0.1412, 0.8338]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1005,2,103,SR 9 preproduction qualification has been performed.,9,27,"[[0.1512, 0.8317], [0.4552, 0.8317], [0.4552, 0.8441], [0.1512, 0.8441]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1006,2,104,"Copyrighted
+No
+further
+reproduct ion
+material
+licensed
+or
+networking
+to
+Joost
+令 permitted.
+den
+Herder
+on
+2019-03-19
+Distributed
+for
+by
+licensee
+Clarivate
+'s
+Analytics
+use
+only.
+(US)
+LLC,
+www.
+techstreet.
+com.",9,27,"[[0.9485, 0.0533], [0.9757, 0.0533], [0.9757, 0.4577], [0.9485, 0.4577]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1007,2,105,4,10,27,"[[0.1296, 0.095], [0.1409, 0.095], [0.1409, 0.1046], [0.1296, 0.1046]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1008,2,106,API SPECIFICATION 2W,10,27,"[[0.4587, 0.0921], [0.5936, 0.0921], [0.5936, 0.106], [0.4587, 0.106]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1009,2,107,"5.2 The carbon equivalent (CE) and composition parameter (Pcm) of the heat analysis shall be
+calculated by the following equations:",10,27,"[[0.1275, 0.133], [0.8657, 0.133], [0.8657, 0.1616], [0.1275, 0.1616]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1010,2,108,$$\begin{array}{l c l}{{C E=\ C\ +\ M n/6\ +\ \left(C r\ +\ M\sigma\ +\ V\right)/5\ +\ \left(N i\ +\ C u\right)/15\ \ +\ \left(N i\ +\ C u\right)/15\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \mathrm{fo}\ +\ S B}}\\ {{P_{x=\ C\ +\ S i/30\ +\ \left(M n+C u\ -C r\right)/20\ +\ M i f\ \ldots\ V/60\ +\ M u/5\ +\ 2f/10\ +5B}}\end{array}$$,10,27,"[[0.1854, 0.1729], [0.8222, 0.1729], [0.8222, 0.22], [0.1854, 0.22]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1011,2,109,(1),10,27,"[[0.8427, 0.1747], [0.8691, 0.1747], [0.8691, 0.1906], [0.8427, 0.1906]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1012,2,110,(2),10,27,"[[0.842, 0.2024], [0.8687, 0.2024], [0.8687, 0.2179], [0.842, 0.2179]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1013,2,111,5.3 The maximum carbon equivalent or composition parameter shall be as prescribed in Table 2.,10,27,"[[0.1294, 0.2394], [0.8351, 0.2394], [0.8351, 0.2544], [0.1294, 0.2544]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1014,2,112,Table 2-Carbon Equivalent or Composition Parameter Maximums,10,27,"[[0.2475, 0.2663], [0.748, 0.2663], [0.748, 0.2801], [0.2475, 0.2801]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1015,2,113,"| Grade | Thickness | CE maximum | Pcm maximum |
+| --- | --- | --- | --- |
+| Grade 50 | To 11/2 in. (40 mm) incl. | 0.39 a | 0.22 |
+| Grade 50 | Over 11/2 in. (40 mm) to 31/2 in. (90 mm) incl. | 0.41 a | 0.23 |
+| Grade 50 | Over 31/2 in. (90 mm) to 6 in. (150 mm) incl. | 0.43 a | 0.24 |
+| Grade 60 | To 11/2 in. (40 mm) incl. | 0.42 a | 0.23 |
+| Grade 60 | Over 11/2 in. (40 mm) to 4 in. (100 mm) incl. | 0.45 a | 0.25 |
+| Grade 70 | To 11/2 in. (40 mm) incl. | See NOTE | 0.23 |
+| Grade 70 | Over 11/2 in. (40 mm) to 4 in. (100 mm) incl. | See NOTE | 0.25 |
+| Grade 80 | To 11/2 in. (40 mm) incl. | See NOTE | 0.23 |
+| Grade 80 | Over 11/2 in. (40 mm) to 4 in. (100 mm) incl. | See NOTE | 0.25 |
+| NOTE By agreement between purchaser and manufacturer. | NOTE By agreement between purchaser and manufacturer. | NOTE By agreement between purchaser and manufacturer. | NOTE By agreement between purchaser and manufacturer. |
+| a When heat analysis C ≤ 0.10 %, max CE value shall not be applied. | a When heat analysis C ≤ 0.10 %, max CE value shall not be applied. | a When heat analysis C ≤ 0.10 %, max CE value shall not be applied. | a When heat analysis C ≤ 0.10 %, max CE value shall not be applied. |
+",10,27,"[[0.1586, 0.2874], [0.8362, 0.2874], [0.8362, 0.4784], [0.1586, 0.4784]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1019,2,117,# 6 Mechanical Requirements,10,27,"[[0.1317, 0.5946], [0.3997, 0.5946], [0.3997, 0.6102], [0.1317, 0.6102]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1021,2,119,"6.1.1 The material, as represented by the test specimens, shall conform to Table 3.",10,27,"[[0.1313, 0.6498], [0.7289, 0.6498], [0.7289, 0.6634], [0.1313, 0.6634]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1022,2,120,Table 3-Tensile Requirements,10,27,"[[0.3841, 0.6755], [0.618, 0.6755], [0.618, 0.6895], [0.3841, 0.6895]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1023,2,121,"| Property | Grade 50 | Grade 60 | Grade 70 | Grade 80 |
+| --- | --- | --- | --- | --- |
+| Yield Strength (SMYS) range, ksi (MPa) |  |  |  |  |
+| ts 1 in. (25 mm) | 50-75 (345-517) | 60-90 (414-621) | 70-95 (483-655) | 80-105 (552-724) |
+| t> 1 in. (25 mm) | 50-70 (345-483) | 60-85 (414-586) | 70-90 (483-621) | 80-100 (552-690) |
+| Tensile Strength, min, ksi (MPa) | 65 (448) | 75 (517) | 82 (565) | 90 (621) |
+| Elongation, 2 in. (50 mm) min, % | 23 | 22 | 21 | 20 |
+| Elongation, 8 in. (200 mm) min, % | 18 | 16 | 14 | 12 |
+",10,27,"[[0.1041, 0.6941], [0.8971, 0.6941], [0.8971, 0.8235], [0.1041, 0.8235]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1024,2,122,6.1.2 One tensile test shall be taken from one corner of each plate.,10,27,"[[0.1312, 0.8363], [0.6173, 0.8363], [0.6173, 0.8503], [0.1312, 0.8503]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1025,2,123,"Copyrighted
+NO
+further
+reproduct
+material
+licensed
+uoT
+JO
+networking
+to
+Joost
+sT den
+permited.
+Herder
+on
+2019-03-19
+Distributed
+for
+by licensee
+Clarivate
+S,
+use
+Analytics
+only.
+(US)
+LLC,
+www.
+techstret.
+com.",10,27,"[[0.9511, 0.0602], [0.9772, 0.0602], [0.9772, 0.4596], [0.9511, 0.4596]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1026,2,124,STEEL PLATES PRODUCED BY THERMO-MECHANICALLY CONTROLLED PROCESSING FOR OFFSHORE STRUCTURES,11,27,"[[0.2143, 0.0925], [0.8443, 0.0925], [0.8443, 0.1049], [0.2143, 0.1049]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1027,2,125,5,11,27,"[[0.8524, 0.0938], [0.8627, 0.0938], [0.8627, 0.103], [0.8524, 0.103]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1028,2,126,# 6.2 Through-Thickness,11,27,"[[0.1236, 0.1328], [0.3315, 0.1328], [0.3315, 0.148], [0.1236, 0.148]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1029,2,127,"6.2.1 The primary use of these steels is in tubular joints, stiffened plate construction, and other
+intersections where portions of the plates will be subject to tension in the thickness direction (Z direction).
+Supplementary requirement 4 (SR 4) in Annex C provides for through-thickness (Z direction) testing of
+plates by the manufacturer and specifies limits for acceptance. Supplementary requirement 1 (SR 1) in
+Annex C provides for ultrasonic examination of the plates by the manufacturer and specifies limits for
+acceptance.",11,27,"[[0.1241, 0.1599], [0.8653, 0.1599], [0.8653, 0.2385], [0.1241, 0.2385]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1030,2,128,"6.2.2 For applications where through-thickness properties are important, but Z-direction testing has not
+been specified, supplementary requirement 5 (SR 5) in Annex C provides low-sulfur chemistry intended to
+reduce the size and number of sulfide inclusions in the plate. SR 5 is neither a substitute for SR 4 nor a
+guarantee of a minimum level of through-thickness ductility.",11,27,"[[0.1246, 0.2502], [0.8638, 0.2502], [0.8638, 0.3039], [0.1246, 0.3039]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1031,2,129,# 7 Notch Toughness Requirements,11,27,"[[0.1254, 0.3146], [0.4513, 0.3146], [0.4513, 0.331], [0.1254, 0.331]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1032,2,130,# 7.1 Notch Impact Testing,11,27,"[[0.125, 0.3427], [0.3487, 0.3427], [0.3487, 0.3583], [0.125, 0.3583]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1033,2,131,"One Charpy V-notch impact test, consisting of three transverse specimens, shall be made on each plate.
+The specimens shall be taken from the mid-width and mid-thickness locations of the plate and tested in
+accordance with ASTM A673. Specimen size, test temperature, and minimum energy requirements are
+shown in Table 4.",11,27,"[[0.1256, 0.3703], [0.8639, 0.3703], [0.8639, 0.4218], [0.1256, 0.4218]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1034,2,132,"Due to the low carbon and sulfur contents, the energy of the full-size specimens can exceed the limit of
+ASTM E23. To prevent this, the producer has the option of testing subsize specimens to any of the
+combinations of specimen size, energy requirement, and test temperature of Table 4, as indicated in
+options A through E.",11,27,"[[0.1248, 0.434], [0.8662, 0.434], [0.8662, 0.4876], [0.1248, 0.4876]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1035,2,133,"Table 4-Notch Toughness Requirements, Charpy V-Notch Testing",11,27,"[[0.242, 0.4986], [0.7465, 0.4986], [0.7465, 0.5122], [0.242, 0.5122]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1036,2,134,"| Grade | Option | Specimen Size in. (mm) | Minimum Average Energy ft-lb (J) | Minimum Single Value ft-lb (J) | Test Temperature F (°C) |
+| --- | --- | --- | --- | --- | --- |
+| 50 | A | 0.394 X 0.394 (10 X 10) | 30 (41) | 25 (34) | -40 (-40) |
+| 50 | B | 0.295 x 0.394 (7.5 x 10) | 30 (41) | 25 (34) | -40 (-40) |
+| 50 | C | 0.197 X 0.394 (5.0 x 10) | 30 (41) | 25 (34) | -40 (-40) |
+| 50 | D | 0.295 x 0.394 (7.5x 10) | 23 (31) | 19 (26) | -50 (-46) |
+| 50 | E | 0.197 X 0.394 (5.0 X 10) | 15 (20) | 13 (18) | -80 (-62) |
+| 60 | A | 0.394 x0.394 (10 X 10) | 35 (48) | 30 (41) | -40 (-40) |
+| 60 | B | 0.295 X 0.394 (7.5x 10) | 35 (48) | 30 (41) | -40 (-40) |
+| 60 | C | 0.197 x 0.394 (5.0 x 10) | 35 (48) | 30 (41) | -40 (-40) |
+| 60 | D | 0.295 X 0.394 (7.5x 10) | 26 (35) | 23 (31) | -50 (-46) |
+| 60 | E | 0.197 x 0.394 (5.0 x 10) | 18 (24) | 15 (20) | -80 (-62) |
+| 70 | A | 0.394 X 0.394 (10 X 10) | 40 (55) | 35 (48) | -40 (-40) |
+| 80 | A | 0.394 x 0.394 (10 X 10) | 45 (62) | 40 (55) | -40 (-40) |
+",11,27,"[[0.1566, 0.5195], [0.8369, 0.5195], [0.8369, 0.7505], [0.1566, 0.7505]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1037,2,135,# 7.2 Notch Impact Retesting,11,27,"[[0.1252, 0.7619], [0.3664, 0.7619], [0.3664, 0.7775], [0.1252, 0.7775]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1038,2,136,"If the average energy value for a set of three specimens is below the average value specified, or if the
+energy value of one specimen is less than the minimum energy value specified for a single specimen,
+retests may be made as follows:",11,27,"[[0.1267, 0.7893], [0.8686, 0.7893], [0.8686, 0.8297], [0.1267, 0.8297]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1039,2,137,"Copyrighted
+No
+further
+reproduction
+material
+licensed
+or
+networking
+to
+Joost
+is permitted.
+den
+Herder
+on
+2019-03-19
+Distributed
+for
+by
+licensee
+Clarivate
+S
+Analytics
+use
+only.
+(US)
+LLC,
+www.
+techstreet
+
+com.",11,27,"[[0.9454, 0.0512], [0.9726, 0.0512], [0.9726, 0.4563], [0.9454, 0.4563]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1040,2,138,6,12,27,"[[0.1319, 0.0959], [0.1413, 0.0959], [0.1413, 0.1045], [0.1319, 0.1045]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1041,2,139,API SPECIFICATION 2W,12,27,"[[0.4608, 0.0933], [0.5934, 0.0933], [0.5934, 0.1059], [0.4608, 0.1059]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1042,2,140,"- a) Retest three additional specimens. The energy value of each specimen shall equal or exceed the
+- minimum average energy value specified.
+",12,27,"[[0.1274, 0.1342], [0.8669, 0.1342], [0.8669, 0.1618], [0.1274, 0.1618]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1043,2,141,"- b) If the required energy values are not obtained upon retest, the plate shall not be accepted under this
+- specification.
+",12,27,"[[0.1286, 0.1739], [0.8658, 0.1739], [0.8658, 0.2009], [0.1286, 0.2009]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1044,2,142,7.3 Notch Toughness Supplements,12,27,"[[0.1296, 0.2123], [0.4361, 0.2123], [0.4361, 0.2278], [0.1296, 0.2278]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1045,2,143,"The notch toughness requirements specified in Section 7 are suitable for applications below water, or
+above water in areas of temperate climate (14 °F [-10 °C] minimum service temperature). Cold-formed
+materials have less toughness due to straining than that of the original flat plates, especially in those
+areas aged by the attachment welding of stubs and braces. The requirements in Section 7 take into
+consideration typical losses in toughness due to straining and aging. Supplementary requirement 6
+(SR 6) in Annex C deals with the strain-aging problem, and consideration should be given to invoking
+SR 1 and/or SR 6 when the strain exceeds 5 % or when (nitrogen X % strain) exceeds 0.040.",12,27,"[[0.1296, 0.2364], [0.8685, 0.2364], [0.8685, 0.3271], [0.1296, 0.3271]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1046,2,144,7.4 Alternative Toughness Tests,12,27,"[[0.1295, 0.3389], [0.4136, 0.3389], [0.4136, 0.354], [0.1295, 0.354]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1047,2,145,7.4.1 Supplementary Toughness Tests,12,27,"[[0.1294, 0.3628], [0.4354, 0.3628], [0.4354, 0.3773], [0.1294, 0.3773]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1048,2,146,"In lieu of the CVN requirements described in Table 4, the following supplements are available in Annex C:",12,27,"[[0.1308, 0.3855], [0.8663, 0.3855], [0.8663, 0.3997], [0.1308, 0.3997]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1049,2,147,"- - SR 2 (Notch Toughness Testing at Lower Temperatures); and
+",12,27,"[[0.1344, 0.4117], [0.5928, 0.4117], [0.5928, 0.4259], [0.1344, 0.4259]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1050,2,148,"- - SR 10 (Notch Toughness Using Drop-Weight);
+",12,27,"[[0.1317, 0.4385], [0.4857, 0.4385], [0.4857, 0.4524], [0.1317, 0.4524]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1051,2,149,7.4.2 Different CVN Values,12,27,"[[0.1315, 0.4635], [0.3439, 0.4635], [0.3439, 0.4779], [0.1315, 0.4779]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1052,2,150,"Impact tests may be made at temperatures lower than those specified in Table 4 and other than those
+specified in Table C.1. The testing temperature shall be specified by the purchaser and agreed to by the
+material manufacturer. If the design condition requires a higher energy value, energy values higher than
+those stated in Table C.1 may be specified subject to agreement between the purchaser and the material
+manufacturer.",12,27,"[[0.1307, 0.4902], [0.8692, 0.4902], [0.8692, 0.5546], [0.1307, 0.5546]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1053,2,151,# 8 Marking,12,27,"[[0.131, 0.5678], [0.239, 0.5678], [0.239, 0.5841], [0.131, 0.5841]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1054,2,152,"Each plate shall be legibly steel die stamped, unless stenciling is specified by the purchaser, with name
+or brand of the manufacturer, heat and slab (plate) number, and API 2W and grade at one end of the
+plate not less than 12 in. (300 mm) from any edge. Plates less than 1/4 in. (6 mm) in thickness may be
+stenciled instead of stamped.",12,27,"[[0.1309, 0.5918], [0.8703, 0.5918], [0.8703, 0.6451], [0.1309, 0.6451]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1055,2,153,The following information shall also be shown as applicable:,12,27,"[[0.133, 0.6564], [0.5321, 0.6564], [0.5321, 0.6708], [0.133, 0.6708]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1056,2,154,"a) The API Monogram may be applied to products complying with the requirements of the specification
+and only by authorized manufacturers.",12,27,"[[0.1318, 0.682], [0.8697, 0.682], [0.8697, 0.7099], [0.1318, 0.7099]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1057,2,155,"- Grade 50 shall be marked API 2W-50.
+",12,27,"[[0.1669, 0.7214], [0.4642, 0.7214], [0.4642, 0.7352], [0.1669, 0.7352]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1058,2,156,"- - Grade 60 shall be marked API 2W-60.
+",12,27,"[[0.1673, 0.7477], [0.4632, 0.7477], [0.4632, 0.7611], [0.1673, 0.7611]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1059,2,157,"- Grade 70 shall be marked API 2W-70.
+",12,27,"[[0.1677, 0.7742], [0.4633, 0.7742], [0.4633, 0.7873], [0.1677, 0.7873]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1060,2,158,"- - Grade 80 shall be marked API 2W-80.
+",12,27,"[[0.1664, 0.7999], [0.4638, 0.7999], [0.4638, 0.8134], [0.1664, 0.8134]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1061,2,159,"b) If any elements previously referenced in 5.5 are added, the plate shall be marked with a ""C"" adjacent
+to the ""W"" in the markings listed in 8 a) (e.g. API 2WC-50).",12,27,"[[0.1312, 0.825], [0.8724, 0.825], [0.8724, 0.8536], [0.1312, 0.8536]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1062,2,160,"Copyrighted
+No
+further
+material
+reproduct
+licensed
+ion
+or
+networking
+to
+Joost
+is
+den
+permitted. on
+Herder
+2019-03-19
+Distributed
+for
+by Clarivate
+licensee
+S
+Analytics
+use
+only.
+(US)
+LLC,
+www.
+techstreet
+com.",12,27,"[[0.951, 0.0593], [0.9774, 0.0593], [0.9774, 0.4555], [0.951, 0.4555]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1063,2,161,"Annex A
+(informative)",13,27,"[[0.4291, 0.132], [0.5574, 0.132], [0.5574, 0.1691], [0.4291, 0.1691]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1064,2,162,"# API Monogram Program
+Use of the API Monogram by Licensees",13,27,"[[0.2839, 0.1818], [0.702, 0.1818], [0.702, 0.2177], [0.2839, 0.2177]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1065,2,163,A.1 Scope,13,27,"[[0.1224, 0.2364], [0.2251, 0.2364], [0.2251, 0.253], [0.1224, 0.253]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1066,2,164,"The API Monogram� is a registered certification mark owned by the American Petroleum Institute (API)
+and authorized for licensing by the API Board of Directors. Through the API Monogram Program, API
+licenses product manufacturers to apply the API Monogram to new products which comply with product
+specifications and have been manufactured under a quality management system that meets the
+requirements of API Spec Q1. API maintains a complete, searchable list of all Monogram licensees on
+the API Composite List website (http://compositelist.api.org).",13,27,"[[0.1218, 0.2595], [0.8638, 0.2595], [0.8638, 0.3389], [0.1218, 0.3389]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1067,2,165,"The application of the API Monogram and license number on products constitutes a representation and
+warranty by the licensee to API and to purchasers of the products that, as of the date indicated, the
+products were manufactured under a quality management system conforming to the requirements of API
+Spec Q1 and that the product conforms in every detail with the applicable standard(s) or product
+specification(s). API Monogram Program licenses are issued only after on-site audits have verified that an
+organization has implemented and continually maintained a quality management system that meets the
+requirements of API Spec Q1 and that the resulting products satisfy the requirements of the applicable
+API product specification(s) and/or standard(s). Although any manufacturer may claim that its products
+meet API product requirements without monogramming them, only manufacturers with a license from API
+can apply the API Monogram to their products.",13,27,"[[0.1223, 0.3499], [0.8634, 0.3499], [0.8634, 0.4792], [0.1223, 0.4792]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1068,2,166,"Together with the requirements of the API Monogram license agreement, this annex establishes the
+requirements for those organizations who wish to voluntarily obtain an API license to provide API
+monogrammed products that satisfy the requirements of the applicable API product specification(s)
+and/or standard(s) and API Monogram Program requirements.",13,27,"[[0.1226, 0.4908], [0.8636, 0.4908], [0.8636, 0.5434], [0.1226, 0.5434]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1069,2,167,"For information on becoming an API Monogram Licensee, please contact API, Certification Programs,
+1220 L Street, N. W., Washington, DC 20005 at Certification@api.org.",13,27,"[[0.1231, 0.5552], [0.8642, 0.5552], [0.8642, 0.5828], [0.1231, 0.5828]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1070,2,168,A.2 Normative References,13,27,"[[0.1225, 0.5959], [0.3684, 0.5959], [0.3684, 0.6118], [0.1225, 0.6118]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1071,2,169,"For Licensees under the Monogram Program, the latest version of this document shall be used. The
+requirements identified therein are mandatory.",13,27,"[[0.1243, 0.6241], [0.8637, 0.6241], [0.8637, 0.6512], [0.1243, 0.6512]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1072,2,170,A.3 Terms and Definitions,13,27,"[[0.1233, 0.6655], [0.3619, 0.6655], [0.3619, 0.6807], [0.1233, 0.6807]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1073,2,171,"For purposes of this annex, the following terms and definitions apply.",13,27,"[[0.1236, 0.6934], [0.6082, 0.6934], [0.6082, 0.7079], [0.1236, 0.7079]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1074,2,172,"A.3.1
+API monogrammable product",13,27,"[[0.1241, 0.7209], [0.3511, 0.7209], [0.3511, 0.7453], [0.1241, 0.7453]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1075,2,173,"Product that has been newly manufactured by an API Licensee utilizing a fully implemented API Spec Q1
+compliant quality management system and that meets all the API-specified requirements of the applicable
+API product specification(s) and/or standard(s).",13,27,"[[0.1239, 0.7452], [0.8647, 0.7452], [0.8647, 0.7842], [0.1239, 0.7842]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1076,2,174,A.3.2,13,27,"[[0.1248, 0.7973], [0.1668, 0.7973], [0.1668, 0.809], [0.1248, 0.809]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1077,2,175,API product specification,13,27,"[[0.1252, 0.8094], [0.3195, 0.8094], [0.3195, 0.8229], [0.1252, 0.8229]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1078,2,176,"Prescribed set of rules, conditions, or requirements attributed to a specified product that address the
+definition of terms; classification of components; delineation of procedures; specified dimensions;",13,27,"[[0.1245, 0.8228], [0.8666, 0.8228], [0.8666, 0.8484], [0.1245, 0.8484]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1079,2,177,"Copyrighted
+No
+further
+material
+reproduction
+licensed
+or
+networking Joost
+to
+IS permitted.
+den
+Herder
+on
+2019-03-19
+Distributed
+for
+by
+licensee
+Clarivate
+'s
+Analytics
+use
+only.
+(US)
+LLC,
+www.
+techstreet
+com.",13,27,"[[0.9454, 0.0481], [0.9733, 0.0481], [0.9733, 0.4558], [0.9454, 0.4558]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1080,2,178,8,14,27,"[[0.1307, 0.0943], [0.1403, 0.0943], [0.1403, 0.103], [0.1307, 0.103]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1081,2,179,API SPECIFICATION 2W,14,27,"[[0.461, 0.0922], [0.5915, 0.0922], [0.5915, 0.1037], [0.461, 0.1037]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1106,2,204,STEEL PLATES PRODUCED BY THERMO-MECHANICALLY CONTROLLEDPROCESSING FOR OFFSHORE STRUCTURES,15,27,"[[0.2147, 0.092], [0.8532, 0.092], [0.8532, 0.1043], [0.2147, 0.1043]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1082,2,180,"manufacturing criteria; material requirements, performance testing, design of activities; and the
+measurement of quality and quantity with respect to materials; products, processes, services, and/or
+practices.",14,27,"[[0.1291, 0.1334], [0.8676, 0.1334], [0.8676, 0.1727], [0.1291, 0.1727]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1083,2,181,A.3.3,14,27,"[[0.1292, 0.1856], [0.171, 0.1856], [0.171, 0.1974], [0.1292, 0.1974]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1084,2,182,# API-specified requirements,14,27,"[[0.1299, 0.199], [0.3354, 0.199], [0.3354, 0.211], [0.1299, 0.211]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1085,2,183,"Requirements, including performance and Licensee-specified requirements, set forth in API Spec Q1 and
+the applicable API product specification(s) and/or standard(s).",14,27,"[[0.1287, 0.2113], [0.8684, 0.2113], [0.8684, 0.2374], [0.1287, 0.2374]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1086,2,184,NOTE Licensee-specified requirements include those activities necessary to satisfy API-specified requirements.,14,27,"[[0.1292, 0.2501], [0.8292, 0.2501], [0.8292, 0.2641], [0.1292, 0.2641]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1087,2,185,A.3.4,14,27,"[[0.1297, 0.2761], [0.1718, 0.2761], [0.1718, 0.2875], [0.1297, 0.2875]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1088,2,186,# design package,14,27,"[[0.1304, 0.2887], [0.2511, 0.2887], [0.2511, 0.3018], [0.1304, 0.3018]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1089,2,187,"Records and documents required to provide evidence that the applicable product has been designed in
+accordance with API Spec Q1 and the requirements of the applicable product specification(s) and/or
+standard(s).",14,27,"[[0.1309, 0.3013], [0.8682, 0.3013], [0.8682, 0.3401], [0.1309, 0.3401]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1090,2,188,A.3.5,14,27,"[[0.1301, 0.3533], [0.1717, 0.3533], [0.1717, 0.3647], [0.1301, 0.3647]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1091,2,189,# licensee,14,27,"[[0.131, 0.3666], [0.1956, 0.3666], [0.1956, 0.3781], [0.131, 0.3781]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1092,2,190,"Organization that has successfully completed the application and audit process, and has been issued a
+license by API to use the API Monogram Mark.",14,27,"[[0.1301, 0.379], [0.8674, 0.379], [0.8674, 0.4047], [0.1301, 0.4047]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1093,2,191,# A.4 Quality Management System Requirements,14,27,"[[0.1297, 0.4187], [0.5616, 0.4187], [0.5616, 0.436], [0.1297, 0.436]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1094,2,192,"An organization applying the API Monogram to products shall develop, maintain, and operate at all times
+a quality management system conforming to API Spec Q1.",14,27,"[[0.1297, 0.4472], [0.8679, 0.4472], [0.8679, 0.4742], [0.1297, 0.4742]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1095,2,193,A.5 Control of the Application and Removal of the API Monogram,14,27,"[[0.1297, 0.4857], [0.7154, 0.4857], [0.7154, 0.5026], [0.1297, 0.5026]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1096,2,194,"Each licensee shall control the application and removal of the API Monogram in accordance with the
+following:",14,27,"[[0.1297, 0.514], [0.8676, 0.514], [0.8676, 0.542], [0.1297, 0.542]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1097,2,195,"- a) Products that do not conform to API specified requirements shall not bear the API Monogram.
+",14,27,"[[0.1299, 0.5529], [0.8141, 0.5529], [0.8141, 0.5675], [0.1299, 0.5675]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1098,2,196,"- b) Each licensee shall develop and maintain an API Monogram marking procedure that documents the
+- marking/monogramming requirements specified by this annex and any applicable API product
+- specification(s) and/or standard(s). The marking procedure shall:
+",14,27,"[[0.1288, 0.5792], [0.8696, 0.5792], [0.8696, 0.6194], [0.1288, 0.6194]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1099,2,197,"- 1 ) define the authority responsible for application and removal of the API Monogram and license
+- number;
+",14,27,"[[0.1619, 0.6306], [0.8677, 0.6306], [0.8677, 0.6569], [0.1619, 0.6569]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1100,2,198,"- 2) define the method(s) used to apply the Monogram and license number;
+",14,27,"[[0.1601, 0.6692], [0.6914, 0.6692], [0.6914, 0.6851], [0.1601, 0.6851]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1101,2,199,"- 3) identify the location on the product where the API Monogram and license number are to be
+- applied;
+",14,27,"[[0.1602, 0.6957], [0.8687, 0.6957], [0.8687, 0.7227], [0.1602, 0.7227]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1102,2,200,"- 4) require the application of the date of manufacture of the product in conjunction with the use of
+- the API Monogram and license number;
+",14,27,"[[0.1616, 0.7345], [0.8692, 0.7345], [0.8692, 0.7615], [0.1616, 0.7615]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1103,2,201,"- 5) require that the date of manufacture, at a minimum, be two digits representing the month and
+- two digits representing the year (e.g. 05-12 for May 2012) unless otherwise stipulated in the
+- applicable API product specification(s) or standard(s); and
+",14,27,"[[0.1619, 0.7736], [0.8709, 0.7736], [0.8709, 0.8132], [0.1619, 0.8132]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1104,2,202,"- 6) define the application of all other required API product specification(s) and/or standard(s)
+- marking requirements.
+",14,27,"[[0.1609, 0.8245], [0.8689, 0.8245], [0.8689, 0.8524], [0.1609, 0.8524]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1105,2,203,"Copyrighted
+No
+further
+reproduction
+material
+licensed
+or
+networking
+to
+Joost
+den
+is
+permitted. on
+Herder
+2019-03-19
+Distributed
+for
+by licensee
+Clarivate is
+use
+Analytics only.
+(US)
+LLC,
+www.
+techsteet.
+com.",14,27,"[[0.9502, 0.0534], [0.9773, 0.0534], [0.9773, 0.4577], [0.9502, 0.4577]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1108,2,206,"- c) Only an API licensee shall apply the API Monogram and its designated license number to API
+- monogrammable products.
+",15,27,"[[0.1218, 0.132], [0.865, 0.132], [0.865, 0.1601], [0.1218, 0.1601]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1109,2,207,"- d) The API Monogram and license number, when issued, are site-specific and subsequently the API
+- Monogram shall only be applied at that site specific licensed facility location.
+",15,27,"[[0.123, 0.1716], [0.8627, 0.1716], [0.8627, 0.1991], [0.123, 0.1991]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1110,2,208,"- e) The API Monogram may be applied at any time appropriate during the production process but shall
+- be removed in accordance with the licensee's API Monogram marking procedure if the product is
+- subsequently found to be out of conformance with any of the requirements of the applicable API
+- product specification(s) and/or standard(s) and API Monogram Program.
+",15,27,"[[0.1234, 0.2107], [0.8661, 0.2107], [0.8661, 0.2633], [0.1234, 0.2633]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1111,2,209,"For certain manufacturing processes or types of products, alternative API Monogram marking procedures
+may be acceptable. Requirements for alternative API Monogram marking are detailed in the API
+Alternative Marking Agreement (AMA), which is available on the API Monogram Program website at:
+http://www.adol-mefafaFles(Caticator/Moppan-PROP))h API-Monogram-
+APIOR Resoutas/APAMonopan-At+Mercing-Acreement Rev-8 FM-011 Modified-20180601.pdf.",15,27,"[[0.1231, 0.2746], [0.8647, 0.2746], [0.8647, 0.3402], [0.1231, 0.3402]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1112,2,210,A.6 Design Package Requirements,15,27,"[[0.1223, 0.3528], [0.4551, 0.3528], [0.4551, 0.3692], [0.1223, 0.3692]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1113,2,211,"Each licensee and/or applicant for licensing shall maintain a current design package for all of the
+applicable products that fall under the scope of each Monogram license. The design package information
+shall provide objective evidence that the product design meets the requirements of the applicable and
+most current API product specification(s) and/or standard(s). The design package(s) shall be made
+available during API audits of the facility.",15,27,"[[0.1237, 0.3804], [0.8661, 0.3804], [0.8661, 0.4453], [0.1237, 0.4453]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1114,2,212,"In specific instances, the exclusion of design activities is allowed under the Monogram Program, as
+detailed in Advisory # 6, available on the API Monogram Program website at https://www.api.org/
+poluce-andsancesaphnocomentandatorisonsones.",15,27,"[[0.1252, 0.4575], [0.8667, 0.4575], [0.8667, 0.497], [0.1252, 0.497]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1115,2,213,# A.7 Manufacturing Capability,15,27,"[[0.1229, 0.509], [0.4064, 0.509], [0.4064, 0.5264], [0.1229, 0.5264]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1116,2,214,"The API Monogram Program is designed to identify facilities that have demonstrated the ability to
+manufacture equipment that conforms to API specifications and/or standards. API may refuse initial
+licensing or suspend current licensing based on a facility's level of manufacturing capability. If API
+determines that additional review is warranted, API may perform additional audits (at the organization's
+expense) of any primary subcontractors to ensure their compliance with applicable specifications.",15,27,"[[0.1233, 0.5373], [0.8657, 0.5373], [0.8657, 0.6031], [0.1233, 0.6031]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1117,2,215,"Facilities with capabilities that are limited to the processes or activities defined below do not meet the
+manufacturing capability requirements to produce new products, and therefore, shall not be licensed or
+be the basis for licensing under the API Monogram Program:",15,27,"[[0.1247, 0.6148], [0.8666, 0.6148], [0.8666, 0.6545], [0.1247, 0.6545]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1118,2,216,"- Capabilities that are limited to performing final inspection and testing of the product, except for testing
+- agencies as Specified in API Spec 14A and/or API Spec 6AV
+",15,27,"[[0.1245, 0.666], [0.8663, 0.666], [0.8663, 0.6929], [0.1245, 0.6929]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1119,2,217,"- Buying, selling and/or distributing finished products and materials;
+",15,27,"[[0.1266, 0.7053], [0.6177, 0.7053], [0.6177, 0.7193], [0.1266, 0.7193]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1120,2,218,"- Design and development activities;
+",15,27,"[[0.1253, 0.7315], [0.4039, 0.7315], [0.4039, 0.7449], [0.1253, 0.7449]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1121,2,219,"- Tearing-down and/or re-assembling of products/components; and,
+",15,27,"[[0.1269, 0.7575], [0.6195, 0.7575], [0.6195, 0.771], [0.1269, 0.771]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1122,2,220,"- Repairing or remanufacturing of existing, used, worn or damaged products.
+",15,27,"[[0.1289, 0.7834], [0.6806, 0.7834], [0.6806, 0.7974], [0.1289, 0.7974]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1123,2,221,"In all instances where requirements for manufacturing or manufacturing facilities are explicitly identified
+within the API product specification, those requirements shall take precedence over this advisory.",15,27,"[[0.1246, 0.8091], [0.8684, 0.8091], [0.8684, 0.8364], [0.1246, 0.8364]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1124,2,222,"Copyrighted
+No
+further
+reproduction
+material
+licensed
+or
+networking Joost
+to
+is permitted.
+den
+Herder
+on
+2019-03-19
+Distributed
+for
+by
+licensee
+Clarivate 's
+Analytics
+use
+only.
+(US)
+LLC,
+WWW.
+techstreet
+나카무라
+com.",15,27,"[[0.947, 0.0581], [0.9771, 0.0581], [0.9771, 0.4569], [0.947, 0.4569]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1125,2,223,10,16,27,"[[0.1261, 0.0941], [0.1456, 0.0941], [0.1456, 0.1062], [0.1261, 0.1062]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1126,2,224,API SPECIFICATION 2W,16,27,"[[0.4571, 0.0938], [0.5911, 0.0938], [0.5911, 0.1049], [0.4571, 0.1049]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1127,2,225,# A.8 Product Marking Requirements,16,27,"[[0.1256, 0.1345], [0.4453, 0.1345], [0.4453, 0.1519], [0.1256, 0.1519]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1128,2,226,A.8.1 General,16,27,"[[0.1259, 0.1637], [0.2471, 0.1637], [0.2471, 0.1774], [0.1259, 0.1774]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1129,2,227,"These marking requirements shall apply only to those API Licensees wishing to mark applicable products
+in conjunction with the requirements of the API Monogram Program.",16,27,"[[0.1263, 0.19], [0.8649, 0.19], [0.8649, 0.2174], [0.1263, 0.2174]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1130,2,228,A.8.2 Product Specification Identification,16,27,"[[0.1259, 0.229], [0.4709, 0.229], [0.4709, 0.2447], [0.1259, 0.2447]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1131,2,229,"Manufacturers shall mark products as specified by the applicable API specifications or standards.
+Marking shall include reference to the applicable API specification and/or standard. Unless otherwise
+specified, reference to the API specifications and/or standards shall be, as a minimum, ""API [Document
+Number]"" (e.g. API 6A, or API 600). Unless otherwise specified, when space allows, the marking may
+include use of ""Spec"" or ""Std"", as applicable (e.g. API Spec 6A or API Std 600).",16,27,"[[0.1262, 0.2562], [0.8669, 0.2562], [0.8669, 0.3221], [0.1262, 0.3221]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1132,2,230,A.8.3 Units,16,27,"[[0.126, 0.3342], [0.2246, 0.3342], [0.2246, 0.3481], [0.126, 0.3481]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1133,2,231,"Products shall be marked with units as specified in the API specification and/or standard. If not specified,
+equipment shall be marked with U.S. customary (USC) units. Use of dual units [USC units and metric (SI)
+units] may be acceptable, if such units are allowed by the applicable product specification and/or
+standard.",16,27,"[[0.1265, 0.3606], [0.8673, 0.3606], [0.8673, 0.413], [0.1265, 0.413]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1134,2,232,# A.8.4 Nameplates,16,27,"[[0.1268, 0.4256], [0.2789, 0.4256], [0.2789, 0.4405], [0.1268, 0.4405]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1135,2,233,"Nameplates, when applicable, shall be made of a corrosion-resistant material unless otherwise specified
+by the API specification and/or standard. Nameplate shall be located as specified by the API specification
+and/or standard. If the location is not specified, then the licensee shall develop and maintain a procedure
+detailing the location to which the nameplate shall be applied. Nameplates may be attached at any time
+during the manufacturing process.",16,27,"[[0.1262, 0.4528], [0.8677, 0.4528], [0.8677, 0.5181], [0.1262, 0.5181]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1136,2,234,"The API Monogram and license number shall be marked on the nameplate, in addition to the other
+product marking requirements specified by the applicable product specification and/or standard.",16,27,"[[0.1273, 0.5297], [0.8666, 0.5297], [0.8666, 0.5574], [0.1273, 0.5574]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1137,2,235,# A.8.5 License Number,16,27,"[[0.1273, 0.5692], [0.3184, 0.5692], [0.3184, 0.5841], [0.1273, 0.5841]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1138,2,236,"The API Monogram license number shall not be used unless it is marked in conjunction with the API
+Monogram. The license number shall be used in close proximity to the API Monogram.",16,27,"[[0.1272, 0.5959], [0.867, 0.5959], [0.867, 0.6228], [0.1272, 0.6228]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1139,2,237,A.9 API Monogram Program: Nonconformance Reporting,16,27,"[[0.1272, 0.6369], [0.6487, 0.6369], [0.6487, 0.6543], [0.1272, 0.6543]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1140,2,238,"API solicits information on products that are found to be nonconforming with API specified requirements,
+as well as field failures (or malfunctions), which are judged to be caused by either specification and/or
+standard deficiencies or nonconformities against API specified requirements. Customers are requested to
+report to API all problems with API monogrammed products. A nonconformance may be reported using
+the API Nonconformance Reporting System available at http://ncr.api.org/ncr.aspx.",16,27,"[[0.1274, 0.6648], [0.8691, 0.6648], [0.8691, 0.7303], [0.1274, 0.7303]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1141,2,239,"Copyrighted
+No
+further
+reproduction
+material
+licensed
+or
+networking
+to
+Joost
+is permitted.
+den
+Herder
+on
+2019-03-19
+Distributed
+for
+by
+licensee
+Clarivate
+'s
+use
+Analytics
+only.
+(US)
+LLC,
+WWW.
+techstreet
+
+com.",16,27,"[[0.9443, 0.0586], [0.978, 0.0586], [0.978, 0.4574], [0.9443, 0.4574]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1142,2,240,"Annex B
+(informative)",17,27,"[[0.4322, 0.1325], [0.5599, 0.1325], [0.5599, 0.1708], [0.4322, 0.1708]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1143,2,241,# Description of Thermo-mechanically Controlled Processing (TMCP),17,27,"[[0.1427, 0.1881], [0.8454, 0.1881], [0.8454, 0.2083], [0.1427, 0.2083]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1144,2,242,B.1 Introduction,17,27,"[[0.1248, 0.2259], [0.2953, 0.2259], [0.2953, 0.2423], [0.1248, 0.2423]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1145,2,243,"The TMCP has evolved from the controlled rolling processes that have been known and used for a
+number of years. TMCP produces fine-grained steel by a combination of chemical composition and
+integrated controls of manufacturing processes from slab reheating to post-rolling cooling, thereby
+achieving the specified mechanical properties in the required plate thicknesses. TMCP requires accurate
+control of both steel temperatures and rolling reductions. See bibliographical reference [3] for a
+discussion of the various TMCP methods in use at that time (1983).",17,27,"[[0.1241, 0.2538], [0.8663, 0.2538], [0.8663, 0.333], [0.1241, 0.333]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1146,2,244,B.2 Outline of TMCP,17,27,"[[0.1255, 0.3445], [0.3304, 0.3445], [0.3304, 0.3605], [0.1255, 0.3605]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1147,2,245,"As shown in Figure B.1, TMCP may incorporate two processes, as follows:",17,27,"[[0.1242, 0.3726], [0.6516, 0.3726], [0.6516, 0.3875], [0.1242, 0.3875]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1148,2,246,"- a) Thermo-mechanical rolling (TMR), in which steels of fine grain size are produced by rolling in the
+- recrystallization and the non-recrystallization regions of austenite, and sometimes in the dual-phase
+- temperature region of austenite and ferrite. Generally, a high proportion of the rolling reduction is
+- performed close to, or below, the temperature at which austenite begins to transform to ferrite during
+- cooling (AR3), and may involve rolling in the lower portion of the temperature range of the intercritical
+- duplex phase region.
+",17,27,"[[0.1252, 0.3988], [0.8658, 0.3988], [0.8658, 0.4768], [0.1252, 0.4768]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1149,2,247,"- b) Accelerated cooling (ACC), in which steels meeting the specified requirements are produced by
+- promoting grain refinement and increasing the pearlite and/or bainite volume fraction through
+- controlled cooling (accelerated cooling and air cooling) immediately after the final controlled rolling
+- (CR) or TMR operation.
+",17,27,"[[0.1248, 0.4888], [0.8673, 0.4888], [0.8673, 0.5417], [0.1248, 0.5417]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1150,2,248,"The selection (from the above) of the method to be used is made by the plate producer depending upon the
+chemical composition, plate thickness, and required properties.",17,27,"[[0.125, 0.5526], [0.8665, 0.5526], [0.8665, 0.581], [0.125, 0.581]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1151,2,249,"| Structure | Temperature | Type of Processing | Type of Processing |
+| --- | --- | --- | --- |
+| Structure | Temperature | Thermo-Mechanical Control Processes | Conventional Processes |
+| Structure | Temperature | T M R A C | A R N C R |
+| Recrystallized (equi-axed) austenite | Normal slab heating temporature Normalizing temperature Arg Ar1 | (1) (2) (4) R R (3) R R R | (5) (6) (7) R R R R |
+| Nonrecrystallized (elongated) austenite Austenite + ferrite | Normal slab heating temporature Normalizing temperature Arg Ar1 | R R A R | (5) (6) (7) R R R R |
+| Ferrite + pearlite (ferrite + bainite) | Normal slab heating temporature Normalizing temperature Arg Ar1 | AC ▼ | (5) (6) (7) R R R R |
+| Note: | Note: | Note: | Note: |
+",17,27,"[[0.1243, 0.5916], [0.8153, 0.5916], [0.8153, 0.7401], [0.1243, 0.7401]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1152,2,250,AC,17,27,"[[0.1274, 0.747], [0.1481, 0.747], [0.1481, 0.755], [0.1274, 0.755]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1153,2,251,rolling N Normalized,17,27,"[[0.2784, 0.7398], [0.4349, 0.7398], [0.4349, 0.7495], [0.2784, 0.7495]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1154,2,252,AR As rolled 놀이 Reduction,17,27,"[[0.1272, 0.7531], [0.4282, 0.7531], [0.4282, 0.7625], [0.1272, 0.7625]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1155,2,253,cooling,17,27,"[[0.2364, 0.7462], [0.2787, 0.7462], [0.2787, 0.7559], [0.2364, 0.7559]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1156,2,254,THR The process CR Controlled rolling,17,27,"[[0.1263, 0.7392], [0.4652, 0.7392], [0.4652, 0.7565], [0.1263, 0.7565]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1157,2,255,"- (1), (2), and (3) show three different TMR rolling processes.
+- (4) shows a TMR process followed by an AC process.
+- (5) shows the conventional AR process.
+- (6) shows the conventional AR process followed by normalizing (N).
+- (7) shows a common controlled rolling (CR) process.
+",17,27,"[[0.1294, 0.7677], [0.4883, 0.7677], [0.4883, 0.8008], [0.1294, 0.8008]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1158,2,256,NOTE This table is not exhaustive in depicting all TMCP processes and is for general illustration purposes only.,17,27,"[[0.1277, 0.8068], [0.8401, 0.8068], [0.8401, 0.8209], [0.1277, 0.8209]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1159,2,257,Figure B.1-Schematic Diagrams of Conventional and TMCP of Steel Plates,17,27,"[[0.2122, 0.8327], [0.7804, 0.8327], [0.7804, 0.8465], [0.2122, 0.8465]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1160,2,258,"Copyrighted
+No
+further
+material
+reproduction
+licensed
+or
+networking
+to
+Joost
+IS
+den
+permitted.
+Herder
+on
+2019-03-19
+Distributed
+for
+by
+licensee
+Clarivate
+
+S
+Analytics
+use
+only.
+(US)
+LLC,
+www.
+techstreet
+com.",17,27,"[[0.9481, 0.0522], [0.9751, 0.0522], [0.9751, 0.4595], [0.9481, 0.4595]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1161,2,259,"Copyrighted material licensed to Joost den Herder on 2019-03-19 for licensee 's use only.
+No further reproduction or networking is permitted. Distributed by Clarivate Analytics (US) LLC, www. techstreet.com.",18,27,"[[0.9774, 0.0572], [0.9776, 0.4545], [0.95, 0.4545], [0.9499, 0.0572]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1162,2,260,"Annex C
+(informative)",19,27,"[[0.4299, 0.1338], [0.5568, 0.1338], [0.5568, 0.1703], [0.4299, 0.1703]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1163,2,261,# Supplementary Requirements,19,27,"[[0.338, 0.1899], [0.6495, 0.1899], [0.6495, 0.2079], [0.338, 0.2079]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1164,2,262,"By agreement between the purchaser and the material manufacturer, and when specified on the
+purchase order, the following supplementary requirements (SR) shall apply.",19,27,"[[0.1234, 0.2197], [0.8647, 0.2197], [0.8647, 0.2473], [0.1234, 0.2473]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1165,2,263,C.1 SR 1-Ultrasonic Examination,19,27,"[[0.1225, 0.2586], [0.4526, 0.2586], [0.4526, 0.275], [0.1225, 0.275]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1166,2,264,The following applies to the ultrasonic examination.,19,27,"[[0.1242, 0.2862], [0.4841, 0.2862], [0.4841, 0.302], [0.1242, 0.302]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1167,2,265,"SR 1.1: Pulse echo ultrasonic examination shall be performed on each plate in accordance with
+ASTM A578/A578M-Level A shall be used. Any area where one or more discontinuities produce a
+continuous total loss of backwall reflection accompanied by continuous indications on the same plane that
+cannot be encompassed within a circle whose diameter is 3 in. (75 mm) shall be cause for rejection.",19,27,"[[0.1238, 0.3134], [0.8658, 0.3134], [0.8658, 0.3659], [0.1238, 0.3659]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1168,2,266,"SR 1.2: Examination reports shall be furnished for each plate; the areas with more than 50 % loss of back
+reflection shall be located on the sketch.",19,27,"[[0.1236, 0.3775], [0.8651, 0.3775], [0.8651, 0.4045], [0.1236, 0.4045]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1169,2,267,"SR 1.3: Optionally, and with prior consultation and agreement, Level C inspection may be used.",19,27,"[[0.124, 0.4161], [0.7905, 0.4161], [0.7905, 0.4308], [0.124, 0.4308]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1170,2,268,C.2 SR 2-Notch Toughness Test at Lower Temperature,19,27,"[[0.126, 0.4427], [0.6464, 0.4427], [0.6464, 0.459], [0.126, 0.459]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1171,2,269,Notch toughness shall meet the requirements of Table C.1.,19,27,"[[0.1246, 0.4645], [0.5396, 0.4645], [0.5396, 0.4785], [0.1246, 0.4785]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1172,2,270,"Table C.1-Notch Toughness Requirements at Lower Temperatures
+for Charpy V-Notch Impact Testing",19,27,"[[0.2379, 0.4899], [0.7487, 0.4899], [0.7487, 0.5167], [0.2379, 0.5167]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1173,2,271,"| Grade | Specimen Size in. (mm) | Minimum Average Energy ft-lb (J) | Minimum Single Value ft-lb (J) | °F (°C) |
+| --- | --- | --- | --- | --- |
+| 50 | 0.394 X 0.394 (10 X 10) | 30 (41) | 25 (34) | -76 (-60) |
+| 60 | 0.394 X 0.394 (10 x 10) | 35 (48) | 30 (41) | -76 (-60) |
+| 70 | 0.394 X 0.394 (10 x 10) | 40 (55) | 35 (48) | -76 (-60) |
+| 80 | 0.394 x 0.394 (10 x 10) | 45 (62) | 40 (55) | -76 (-60) |
+",19,27,"[[0.1792, 0.5225], [0.8109, 0.5225], [0.8109, 0.6349], [0.1792, 0.6349]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1174,2,272,C.3 SR 3-Additional Tension Test,19,27,"[[0.1238, 0.6487], [0.458, 0.6487], [0.458, 0.6648], [0.1238, 0.6648]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1175,2,273,"Two tension tests shall be taken from each plate as-rolled by the TMCP process (parent plate). The test
+specimens shall be taken from a corner of the plate at both ends.",19,27,"[[0.1256, 0.6705], [0.8665, 0.6705], [0.8665, 0.6972], [0.1256, 0.6972]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1176,2,274,C.4 SR 4-Through-Thickness (Z Direction) Testing,19,27,"[[0.1272, 0.7097], [0.6063, 0.7097], [0.6063, 0.7265], [0.1272, 0.7265]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1177,2,275,The following apply to the through-thickness testing.,19,27,"[[0.1266, 0.7309], [0.4902, 0.7309], [0.4902, 0.746], [0.1266, 0.746]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1178,2,276,"SR 4.1: This supplementary requirement covers the procedure and acceptance standards for the
+determination of reduction-of-area using a tension test specimen whose axis is normal to the surfaces of
+steel plates with nominal thicknesses 3/4 in. (19 mm) and greater. Definitions shall be in accordance with
+ASTM A370.",19,27,"[[0.1253, 0.757], [0.868, 0.757], [0.868, 0.8096], [0.1253, 0.8096]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1179,2,277,SR 4.2 (Number of Test Specimens): Two tests shall be taken from each plate as-rolled (parent plate).,19,27,"[[0.1246, 0.8213], [0.8252, 0.8213], [0.8252, 0.8366], [0.1246, 0.8366]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1180,2,278,"Copyrighted
+No
+further
+reproduction
+material
+licensed
+or
+networking
+to
+Joost
+is
+den
+permitted.
+Herder
+on
+2019-03-19
+Distributed
+for
+by
+licensee
+Clar
+ivate
+,s
+use
+Analytics
+only.
+(US)
+LLC,
+www.
+techstreet
+
+com.",19,27,"[[0.9436, 0.0556], [0.9749, 0.0556], [0.9749, 0.4563], [0.9436, 0.4563]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1181,2,279,14,20,27,"[[0.1307, 0.0941], [0.15, 0.0941], [0.15, 0.1058], [0.1307, 0.1058]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1182,2,280,API SPECIFICATION 2W,20,27,"[[0.4623, 0.0932], [0.5935, 0.0932], [0.5935, 0.1048], [0.4623, 0.1048]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1183,2,281,"SR 4.3 (Orientation of Test Specimens): The longitudinal axis of the test specimen shall be perpendicular to
+the surface of the plate.",20,27,"[[0.1306, 0.1333], [0.8675, 0.1333], [0.8675, 0.161], [0.1306, 0.161]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1184,2,282,"SR 4.4 (Location of Test Specimens): One test specimen shall be taken at the ingot axis or cast slab
+longitudinal centerline at its intersection with each edge or end of the plate.",20,27,"[[0.1309, 0.1723], [0.8671, 0.1723], [0.8671, 0.1996], [0.1309, 0.1996]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1185,2,283,SR 4.5 (Preparation of Test Specimens): Specimens shall be prepared as follows:,20,27,"[[0.1309, 0.2112], [0.6916, 0.2112], [0.6916, 0.2258], [0.1309, 0.2258]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1186,2,284,"- a) Prolongations shall be joined to opposite surfaces of the plate coupon being tested, with their axes
+- coincident. The joining method used should be one that results in a minimal heat-affected zone in the
+- portion of the plate being tested. Prolongation materials shall be selected so that failure shall occur in
+- the plate portion of the specimen.
+",20,27,"[[0.1303, 0.2375], [0.8694, 0.2375], [0.8694, 0.2898], [0.1303, 0.2898]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1187,2,285,"- b) Specimens shall be machined to the form and dimensions of the 0.500 in. (12.5 mm) round specimen
+- of Figure 4 of ASTM A370-17, except for the plate thicknesses less than 11/4 in. (32 mm) where the
+- 0.350 in. (8.75 mm) test specimen may be used.
+",20,27,"[[0.131, 0.302], [0.8697, 0.302], [0.8697, 0.3421], [0.131, 0.3421]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1188,2,286,"- c) The full plate thickness shall be contained within the uniform section with no taper permitted. The
+- length (""G"" in Figure 4 of ASTM A370-17) of the cylindrical section of the test piece shall be adjusted
+- as necessary to contain the plate thickness within a uniform diameter throughout the section.
+",20,27,"[[0.1325, 0.3537], [0.8692, 0.3537], [0.8692, 0.3939], [0.1325, 0.3939]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1189,2,287,SR 4.6 (Testing): Tensile testing shall be conducted in accordance with the requirements of ASTM A370.,20,27,"[[0.1311, 0.4047], [0.8614, 0.4047], [0.8614, 0.4194], [0.1311, 0.4194]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1190,2,288,"SR 4.7 (Acceptance Standards): Standards for the acceptance of through-thickness testing shall be as
+follows:",20,27,"[[0.1314, 0.4308], [0.8678, 0.4308], [0.8678, 0.4578], [0.1314, 0.4578]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1191,2,289,"- a) Each tension test specimen shall exhibit a minimum reduction-of-area of 30 %. If one of the two
+- specimens from a plate is below 30 %, but not below 25 %, a retest of two additional specimens from
+- a location adjacent to the failed specimen shall be made, and both of these additional determinations
+- shall equal or exceed 30 %.
+",20,27,"[[0.1316, 0.4695], [0.8699, 0.4695], [0.8699, 0.5222], [0.1316, 0.5222]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1192,2,290,"- b) Minimum reduction-of-area limits higher than stated in supplementary requirement 4.7 a) [SR 4.7 a)]
+- may be specified subject to agreement between the material manufacturer and the purchaser.
+",20,27,"[[0.1306, 0.5337], [0.8705, 0.5337], [0.8705, 0.5618], [0.1306, 0.5618]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1193,2,291,"SR 4.8 (Marking): Plates accepted in accordance with this procedure for through-thickness testing shall
+be identified by stamping or stenciling ""Z"" adjacent to marking otherwise required (i.e. API 2W-50Z).",20,27,"[[0.1318, 0.5733], [0.8707, 0.5733], [0.8707, 0.6014], [0.1318, 0.6014]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1194,2,292,C.5 SR 5-Low Sulfur Steel for Improved Through-Thickness Properties,20,27,"[[0.1332, 0.6122], [0.7996, 0.6122], [0.7996, 0.6289], [0.1332, 0.6289]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1195,2,293,The following apply to the low sulfur steel for improved through-thickness properties.,20,27,"[[0.1326, 0.6338], [0.7209, 0.6338], [0.7209, 0.6488], [0.1326, 0.6488]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1196,2,294,"SR 5.1 (Intent): The intent of this supplementary requirement is to provide, by chemical control, plates with
+low levels of sulfide inclusions, and thereby a reduction of the potential for lamellar tearing of the plate
+around attachment welds.",20,27,"[[0.1341, 0.66], [0.871, 0.66], [0.871, 0.6992], [0.1341, 0.6992]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1197,2,295,"SR 5.2 (Chemistry): The steels shall conform to the requirements for chemical composition prescribed in
+Table 1, except that the maximum content of sulfur on heat analysis shall be 0.006 %.",20,27,"[[0.1335, 0.7114], [0.8699, 0.7114], [0.8699, 0.7387], [0.1335, 0.7387]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1198,2,296,"SR 5.3 (Through-Thickness Testing): Through-thickness (Z direction) tensile testing is not required by
+this supplementary requirement.",20,27,"[[0.1343, 0.7499], [0.8699, 0.7499], [0.8699, 0.7777], [0.1343, 0.7777]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1199,2,297,"SR 5.4 (Marking): Plates accepted in accordance with this supplementary requirement shall be identified by
+stamping ""LS"" adjacent to marking otherwise required (i.e. API 2W-50LS).",20,27,"[[0.1343, 0.7893], [0.8712, 0.7893], [0.8712, 0.8169], [0.1343, 0.8169]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1200,2,298,"Copyrighted
+No
+further
+material
+reproduction
+licensed
+or
+networking
+to
+Joost
+den
+is
+permitted. on
+Herder
+2019-03-19
+Distributed
+for
+by Clarivate
+licensee
+'s
+Analytics
+use
+only.
+(US)
+LLC
+WWW
+techstreet
+
+com.",20,27,"[[0.9518, 0.0599], [0.9787, 0.0599], [0.9787, 0.4568], [0.9518, 0.4568]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1201,2,299,STEEL PLATES PRODUCED BY THERMO-MECHANICALLY CONTROLLED PROCESSINGFOR OFFSHORE STRUCTURES 15,21,27,"[[0.2155, 0.0933], [0.8599, 0.0933], [0.8599, 0.1054], [0.2155, 0.1054]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1202,2,300,C.6 SR 6-Strain-aged Charpy V-notch Impact Tests,21,27,"[[0.126, 0.1332], [0.6108, 0.1332], [0.6108, 0.1504], [0.126, 0.1504]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1203,2,301,"Charpy V-notch impact test coupons representing the thickest and thinnest plate of each heat shall be
+uniformly strained 5 %, or more if specified, in axial tension and aged at 480 °F (250 °C) for one hour at
+temperature prior to cutting the test specimens. The test results shall meet the requirements of Section 7.",21,27,"[[0.1246, 0.1615], [0.8645, 0.1615], [0.8645, 0.2025], [0.1246, 0.2025]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1204,2,302,C.7 SR 7-Simulation of Post-weld Heat Treatment,21,27,"[[0.1261, 0.2138], [0.5985, 0.2138], [0.5985, 0.2298], [0.1261, 0.2298]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1205,2,303,"A second set of test coupons shall be subjected to a simulated post-weld heat treatment provided by the
+purchaser that is representative of the thermal treatment to which the material will be subjected during
+fabrication. The temperature range, time at temperature, and cooling rates shall be as specified on the
+order.",21,27,"[[0.1239, 0.2425], [0.8659, 0.2425], [0.8659, 0.2945], [0.1239, 0.2945]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1206,2,304,# C.8 SR 8-Hardness Testing,21,27,"[[0.1232, 0.3066], [0.4021, 0.3066], [0.4021, 0.3235], [0.1232, 0.3235]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1207,2,305,The following apply to the hardness testing.,21,27,"[[0.1248, 0.3354], [0.431, 0.3354], [0.431, 0.3501], [0.1248, 0.3501]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1208,2,306,"SR 8.1: This supplementary requirement covers the procedure and acceptance standards for surface
+hardness testing of steel plates furnished under this specification.",21,27,"[[0.1248, 0.3615], [0.8643, 0.3615], [0.8643, 0.3883], [0.1248, 0.3883]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1230,2,328,"Testing to a wider range of heat input, wider range of preheats, higher CTOD values, or lower test
+temperatures, is permitted at the option of the material manufacturer or when specified by the purchaser,
+and shall be deemed to satisfy the minimum requirements of this supplement.",22,27,"[[0.1257, 0.3947], [0.8678, 0.3947], [0.8678, 0.4346], [0.1257, 0.4346]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1209,2,307,"SR 8.2: The hardness test shall be made by the Brinell hardness method as described in ASTM E10
+using a 3000-kg load. By agreement, other hardness test methods may be used, and their measurement
+converted to Brinell values. The hardness measurement shall be made on both top and bottom surfaces
+of specimens removed from one corner at each end of the plate as produced. The mill surface and any
+decarburized layer shall be removed prior to testing. Not less than four hardness measurements shall be
+made on each plate, all of which shall lie within the acceptance limits shown below. If any individual
+measurement is outside the acceptance limits shown below, two additional measurements may be
+performed adjacent to the original impression. Both new measurements shall comply with the acceptance
+limits to invalidate the original measurement.",21,27,"[[0.1234, 0.3998], [0.8663, 0.3998], [0.8663, 0.5157], [0.1234, 0.5157]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1210,2,308,SR 9.3: The acceptance limits shall be as follows:,21,27,"[[0.1244, 0.5283], [0.4761, 0.5283], [0.4761, 0.5421], [0.1244, 0.5421]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1211,2,309,"- Grade 50 (131-207 HBN).
+",21,27,"[[0.1243, 0.5544], [0.3358, 0.5544], [0.3358, 0.5677], [0.1243, 0.5677]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1212,2,310,"- Grade 60 (by agreement).
+",21,27,"[[0.1234, 0.5809], [0.3363, 0.5809], [0.3363, 0.5945], [0.1234, 0.5945]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1213,2,311,"- Grade 70 (by agreement).
+",21,27,"[[0.1253, 0.6071], [0.3382, 0.6071], [0.3382, 0.6202], [0.1253, 0.6202]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1214,2,312,"- Grade 80 (by agreement).
+",21,27,"[[0.1326, 0.633], [0.3372, 0.633], [0.3372, 0.6468], [0.1326, 0.6468]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1215,2,313,# C.9 SR 9-Preproduction Qualification,21,27,"[[0.1255, 0.6583], [0.4944, 0.6583], [0.4944, 0.6747], [0.1255, 0.6747]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1216,2,314,The following apply to the preproduction qualification.,21,27,"[[0.1254, 0.6865], [0.502, 0.6865], [0.502, 0.701], [0.1254, 0.701]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1217,2,315,"SR 9.1: This supplementary requirement provides for preproduction qualification by special welding and
+mechanical testing of a specific chemical composition range, in combination with specific steelmaking and
+rolling procedures, from a specific producer. The purpose of this supplementary requirement is to minimize
+the amount of time and testing necessary to prepare and certify welding procedures at the fabrication yard.
+Welding procedures developed by implementing SR 9 only apply to the HAZ.",21,27,"[[0.1258, 0.7125], [0.8679, 0.7125], [0.8679, 0.7772], [0.1258, 0.7772]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1218,2,316,"SR 9.2: The specific testing required shall be that contained in the Qualification for HAZ Toughness and
+Delayed Cracking Test sections of API 2Z, as specified on the purchase order. Prior qualification by a
+material manufacturer may be accepted for fulfillment of this supplementary requirement, if
+documentation acceptable to the purchaser is provided.",21,27,"[[0.1257, 0.7896], [0.8685, 0.7896], [0.8685, 0.8424], [0.1257, 0.8424]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1219,2,317,"Copyrighted
+No
+further
+material
+reproduct ion
+licensed
+or
+networking
+to
+Joost
+IS
+den
+permitted.
+Herder
+on
+2019-03-19
+Distributed
+for
+by
+licensee
+Clarivate
+.
+S
+Analytics
+use
+only.
+(US)
+LLC,
+www.
+techstreet
+:
+com.",21,27,"[[0.9474, 0.0583], [0.9749, 0.0583], [0.9749, 0.4541], [0.9474, 0.4541]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1220,2,318,16,22,27,"[[0.1272, 0.095], [0.146, 0.095], [0.146, 0.1063], [0.1272, 0.1063]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1221,2,319,API SPECIFICATION 2W,22,27,"[[0.4595, 0.0943], [0.5902, 0.0943], [0.5902, 0.1054], [0.4595, 0.1054]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1222,2,320,"A significant change in chemical composition or processing shall require either a separate full qualification
+(for major change) or an abbreviated re-qualification (for minor change) as described in the
+Re-qualification section of API 2Z, and if all essential variables are within the prescribed limits.",22,27,"[[0.1269, 0.135], [0.8672, 0.135], [0.8672, 0.1746], [0.1269, 0.1746]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1223,2,321,"SR 9.3: Crack tip opening displacement (CTOD) testing of weld-heat-affected zone shall be performed in
+accordance with the Qualification for HAZ Toughness section of API 2Z, which provides for testing over
+the following range of conditions:",22,27,"[[0.1271, 0.1866], [0.8668, 0.1866], [0.8668, 0.227], [0.1271, 0.227]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1224,2,322,"- - heat input: 20 kJ/in.-114 kJ/in. (0.8 kJ/mm-4.5 kJ/mm);
+",22,27,"[[0.1278, 0.2384], [0.5442, 0.2384], [0.5442, 0.2525], [0.1278, 0.2525]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1225,2,323,preheat: 212 °F-480 °F (100 °C-250 °C).,22,27,"[[0.1262, 0.2648], [0.4463, 0.2648], [0.4463, 0.2784], [0.1262, 0.2784]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1226,2,324,Required CTOD for Grades 50 and 60 shall be as specified in API 2Z.,22,27,"[[0.1261, 0.2901], [0.616, 0.2901], [0.616, 0.304], [0.1261, 0.304]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1227,2,325,Required CTOD for Grades 70 and 80 shall be as follows:,22,27,"[[0.1266, 0.3159], [0.5333, 0.3159], [0.5333, 0.3306], [0.1266, 0.3306]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1228,2,326,"- plates 3 in. (75 mm) and under in thickness: 0.014 in. at 14 °F (0.35 mm at -10 °C);
+",22,27,"[[0.128, 0.3425], [0.7394, 0.3425], [0.7394, 0.3564], [0.128, 0.3564]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1229,2,327,"- plates over 3 in. (75 mm) in thickness: shall be agreed with the purchaser.
+",22,27,"[[0.129, 0.369], [0.6728, 0.369], [0.6728, 0.3826], [0.129, 0.3826]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1231,2,329,"SR 9.4: Weldability testing shall be conducted in accordance with the Delayed Cracking Test section of
+API 2Z using two types of tests representing different levels of restraint; the controlled thermal severity
+(CTS) test for moderate restraint, and the Y-groove test for high restraint.",22,27,"[[0.1277, 0.4458], [0.8687, 0.4458], [0.8687, 0.4864], [0.1277, 0.4864]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1232,2,330,# C.10 SR 10-Notch Toughness Using Drop-Weight,22,27,"[[0.1288, 0.498], [0.59, 0.498], [0.59, 0.5149], [0.1288, 0.5149]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1233,2,331,The following apply to the notch toughness using drop-weight.,22,27,"[[0.1275, 0.5258], [0.5638, 0.5258], [0.5638, 0.542], [0.1275, 0.542]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1234,2,332,"SR 10.1: Drop-weight tests shall be conducted. One plate per 50-ton (45 t) lot or part thereof of the plates
+in each heat 5/8 in. (16 mm) or more in thickness shall be tested. The plate tested shall be the thickest
+gauge in each 50-ton (45 t) lot.",22,27,"[[0.1283, 0.5524], [0.8684, 0.5524], [0.8684, 0.5926], [0.1283, 0.5926]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1235,2,333,"SR 10.2: Drop-weight tests shall be in accordance with ASTM E208 on two P-3 specimens from the
+selected plate(s). The specimens shall be taken adjacent to the tensile test coupons. The following drop-
+weight test options are available:",22,27,"[[0.1282, 0.6039], [0.8682, 0.6039], [0.8682, 0.6447], [0.1282, 0.6447]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1236,2,334,- test at -30 °F (-35 °C); or,22,27,"[[0.1293, 0.6566], [0.3404, 0.6566], [0.3404, 0.6698], [0.1293, 0.6698]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1237,2,335,"- - if SR2 is specified, drop-weight testing shall be performed at -67 °F (-55 °C).
+",22,27,"[[0.1296, 0.6816], [0.6955, 0.6816], [0.6955, 0.6957], [0.1296, 0.6957]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1238,2,336,"Both specimens shall meet the ""no break"" criteria at the test temperature and the results shall be
+reported.",22,27,"[[0.1284, 0.7077], [0.868, 0.7077], [0.868, 0.7349], [0.1284, 0.7349]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1239,2,337,"SR 10.3: If one specimen fails (""breaks"") on any plate tested, retests may be made as follows:",22,27,"[[0.1289, 0.7464], [0.784, 0.7464], [0.784, 0.7608], [0.1289, 0.7608]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1240,2,338,"- Retest two additional specimens from each plate for which a specimen failed. Each of these two
+- retest specimens shall pass (""no break"").
+",22,27,"[[0.1281, 0.7722], [0.8694, 0.7722], [0.8694, 0.7994], [0.1281, 0.7994]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1241,2,339,"- - If any of the specimens fail upon retest, the heat shall not be accepted.
+",22,27,"[[0.1279, 0.8121], [0.6531, 0.8121], [0.6531, 0.8263], [0.1279, 0.8263]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1242,2,340,"Copyrighted
+16
+further
+reproduct
+materlal
+licensed
+UOT
+or
+networklng
+to
+Joost
+is den
+permitted.
+Herder
+on
+2019-03-19
+Distributed
+for
+by licensee
+Clarivate S.
+use
+Analytics only.
+(US)
+LLC,
+WWW.
+techstreet
+com.",22,27,"[[0.9487, 0.0556], [0.9753, 0.0556], [0.9753, 0.4609], [0.9487, 0.4609]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1243,2,341,STEEL PLATES PRODUCED BY THERMO-MECHANICALLY CONTROLLEDPROCESSING FOR OFFSHORE STRUCTURES 17,23,27,"[[0.2149, 0.0903], [0.8581, 0.0903], [0.8581, 0.1029], [0.2149, 0.1029]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1244,2,342,# C.11 SR 11-Surface Quality,23,27,"[[0.1238, 0.1307], [0.3932, 0.1307], [0.3932, 0.1483], [0.1238, 0.1483]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1245,2,343,"For applications where surface quality is considered critical, plates are to be furnished in the blasted and
+inspected conditions. The depth of rolled-in scale or clusters of pits shall not exceed 0.015 in. (0.381 mm)
+and shall not result in an undergauge condition. However, isolated individual pits not over 0.030 in. (0.762
+mm) deep are acceptable, provided that the plate thickness is not reduced below the specified minimum.
+Other surface imperfections, such as tears, seams, snakes, blisters, scabs, and so forth, are not
+acceptable and shall be conditioned without reducing the thickness below minimum. The surface
+imperfections may be removed by grinding, provided each ground area is well faired and grinding does
+not reduce the thickness of the plate below minimum.",23,27,"[[0.1233, 0.1595], [0.8649, 0.1595], [0.8649, 0.2637], [0.1233, 0.2637]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1246,2,344,# C.12 SR 12-Thickness Tolerance,23,27,"[[0.1235, 0.2756], [0.4412, 0.2756], [0.4412, 0.2917], [0.1235, 0.2917]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1247,2,345,"By agreement between purchaser and supplier, plates can be ordered to 1/2 standard over tolerance for
+thickness shown in ASTM A6/A6M.",23,27,"[[0.1248, 0.3039], [0.8646, 0.3039], [0.8646, 0.331], [0.1248, 0.331]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1248,2,346,"Copyrighted
+No
+further
+reproduct ion
+material
+licensed
+or
+networking
+to
+Joost
+is permitted.
+den
+Herder
+on
+2019-03-19
+Distributed
+for
+by
+licensee
+Clarivate
+'s
+Analytics
+use
+only.
+(US)
+LLC,
+www.
+techstreet
+com.",23,27,"[[0.9477, 0.0525], [0.9756, 0.0525], [0.9756, 0.4555], [0.9477, 0.4555]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1249,2,347,"Annex D
+(informative)",24,27,"[[0.4424, 0.1338], [0.5516, 0.1338], [0.5516, 0.167], [0.4424, 0.167]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1250,2,348,Suggestions for Ordering API 2W Steel Plate,24,27,"[[0.2823, 0.1854], [0.7108, 0.1854], [0.7108, 0.2028], [0.2823, 0.2028]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1251,2,349,"The purchaser should specify the following information on the purchase order when placing orders for
+steel plate manufactured in accordance with API 2W specifications:",24,27,"[[0.1279, 0.2212], [0.869, 0.2212], [0.869, 0.2484], [0.1279, 0.2484]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1252,2,350,Table D.1-Purchase Order Information,24,27,"[[0.3479, 0.2594], [0.6477, 0.2594], [0.6477, 0.2743], [0.3479, 0.2743]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1253,2,351,"| Specification | API Spec 2W |
+| --- | --- |
+| Quantity size | As required |
+| Grade | 50, 60, 70, 80 |
+| Furnace type | Basic oxygen or electric |
+| Process of manufacturer | See 4.2.2 |
+| Mill inspection by purchaser | State advanced notice requirements |
+| Delivery date and shipping instructions | As required |
+| Supplementary requirements | As required |
+| SR 9 preproduction qualification: | For Grades 70 and Grade 80 only |
+| - SR 9.3-CTOD testing of weld heat affected zone | For Grades 70 and Grade 80 only |
+| - SR 9.4-Weldability (hydrogen cracking) tests at: | For Grades 70 and Grade 80 only |
+| - CP (conventional preheat) level of performance | For Grades 70 and Grade 80 only |
+| - MP (modified preheat) level of performance | For Grades 70 and Grade 80 only |
+",24,27,"[[0.1538, 0.2774], [0.8397, 0.2774], [0.8397, 0.4386], [0.1538, 0.4386]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1254,2,352,"The purchaser should specify any of the following supplemental requirements on the purchase order
+when placing orders for steel plate manufactured in accordance with API 2W specifications:",24,27,"[[0.1278, 0.4519], [0.868, 0.4519], [0.868, 0.4793], [0.1278, 0.4793]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1255,2,353,Table D.2-Supplementary Requirements,24,27,"[[0.3425, 0.491], [0.655, 0.491], [0.655, 0.5057], [0.3425, 0.5057]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1256,2,354,"| SR 1 | Ultrasonic Examination |
+| --- | --- |
+| SR 2 | Notch Toughness at Lower Temperature |
+| SR 3 | Additional Tension Test |
+| SR 4 | Through- Thickness (Z direction) Testing |
+| SR 5 | Low Sulfur Steel for Improved Through-Thickness Properties |
+| SR 6 | Strain-aged Charpy V-Notch Impact Tests |
+| SR 7 | Simulated Post-weld Heat Treatment (for temperature, duration, and cooling rate only) |
+| SR 8 | Hardness Testing |
+| SR 9 | Preproduction Qualification (for Grades 50 and 60 only) |
+| SR 10 | Notch Toughness Using Drop-Weight |
+| SR 11 | Surface Quality |
+| SR 12 | Thickness Tolerance |
+",24,27,"[[0.156, 0.5095], [0.8397, 0.5095], [0.8397, 0.6775], [0.156, 0.6775]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1257,2,355,"Copyrighted
+No
+further
+reproduct ion
+material
+licensed
+or
+networking
+to
+Joost
+is
+den
+permitted.
+Herder
+on
+2019-03-19
+Distributed
+for
+by
+licensee
+Clarivate
+'s
+Analytics
+use
+only.
+(US)
+LLC
+WWW.
+techstreet.
+com,",24,27,"[[0.95, 0.0518], [0.9769, 0.0518], [0.9769, 0.456], [0.95, 0.456]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1258,2,356,# Bibliography,25,27,"[[0.4367, 0.1261], [0.5774, 0.1273], [0.5771, 0.1486], [0.4364, 0.1474]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1259,2,357,"- [1] API Recommended Practice 2A-WSD, Planning, Designing, and Constructing Fixed Offshore
+- Platforms-Working Stress Design
+",25,27,"[[0.1218, 0.1609], [0.8289, 0.1669], [0.8284, 0.195], [0.1213, 0.189]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1260,2,358,"- [2] API Specification 2H, Carbon Manganese Steel Plate for Offshore Platform Tubular Joints
+",25,27,"[[0.1168, 0.2007], [0.8061, 0.2065], [0.8059, 0.2201], [0.1166, 0.2143]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1261,2,359,"- [3] Yasuda, Kenji, A Synopsis of High Tensile Hull Structural Steels Through the Thermo-Mechanical
+- Control Process (TMCP) in Japan, HK Tech Bulletin, 1983
+",25,27,"[[0.1237, 0.2266], [0.8581, 0.2328], [0.8577, 0.2609], [0.1232, 0.2547]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1262,2,360,"Copyr
+No
+further
+ighted
+reproduct
+material
+licensed
+ion
+or
+networking
+to
+Joost
+is
+den
+permitted.
+Herder
+on
+2019-03-19
+Distributed
+for
+by
+licensee
+Clarivate
+S
+Analytics
+use
+only.
+(US)
+LLC,
+www.
+techstreet
+com,",25,27,"[[0.9485, 0.0607], [0.9753, 0.061], [0.9686, 0.4602], [0.9417, 0.46]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1263,2,361,"Copyrighted material licensed to Joost den Herder on 2019-03-19 for licensee 's use only.
+No further reproduct ion or networking is permitted. Distributed by Clarivate Analytics (US) LLC, www. techstreet. com.",26,27,"[[0.9764, 0.0587], [0.9759, 0.4559], [0.9482, 0.4559], [0.9487, 0.0587]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1264,2,362,"Copyrighted
+No
+further
+reproduction
+material
+licensed
+or
+networking
+to
+Joost
+den
+is
+permitted.
+Herder
+on
+2019-03-19
+Distributed
+for
+by
+licensee
+Clar
+ivate
+'s
+use
+Analytics
+only.
+(US)
+LLC,
+www.
+techstreet.
+com.",27,27,"[[0.9448, 0.0582], [0.9764, 0.0582], [0.9764, 0.4541], [0.9448, 0.4541]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1265,2,363,# IP energy API,27,27,"[[0.0745, 0.5938], [0.2426, 0.5938], [0.2426, 0.6241], [0.0745, 0.6241]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1266,2,364,"1220 L Street, NW
+Washington, DC 20005-4070
+USA",27,27,"[[0.1527, 0.6517], [0.3426, 0.6517], [0.3426, 0.6886], [0.1527, 0.6886]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1267,2,365,202.682.8000,27,27,"[[0.1539, 0.6985], [0.2461, 0.6985], [0.2461, 0.7108], [0.1539, 0.7108]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1268,2,366,"Additional copies are available through Techstreet
+Email Address: techstreet.service@clarivate.com
+Online Orders: www.techstreet.com",27,27,"[[0.1532, 0.7567], [0.5009, 0.7567], [0.5009, 0.7927], [0.1532, 0.7927]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1269,2,367,"Information about API Publications, Programs and Services
+is available on the web at www.api.org",27,27,"[[0.1554, 0.8033], [0.5331, 0.8033], [0.5331, 0.8292], [0.1554, 0.8292]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
+1270,2,368,Product No. G02W06,27,27,"[[0.6949, 0.8365], [0.8502, 0.8365], [0.8502, 0.8506], [0.6949, 0.8506]]",system,2025-07-14 13:43:36.686056,system,2025-07-14 13:43:36.686056
