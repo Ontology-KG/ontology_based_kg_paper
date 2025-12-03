@@ -40,7 +40,7 @@ ontology_based_kg_paper
 │   ├── kg_retriever/      # title embedding + KG 기반 RAG
 │   └── mindmap/           # entity embedding + Neo4j 기반 QA
 │
-└── data/
+└── 각 파일마다 확인/
     ├── triplet/           # 추출된 triple
     ├── synomy_output/           # 동의어 사전
     ├── pruning_ouput/           # Neo4j 넣는 최종 KG
