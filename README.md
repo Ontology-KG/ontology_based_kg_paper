@@ -64,11 +64,12 @@ ontology_based_kg_paper
 
 ```
 1. python ontology.py                # 문서 전처리 및 구조 라벨링
-2. python triple_table.py            # 표 기반 triple 추출
-3. python triple_text.py             # 텍스트 triple 추출
-4. python synonym.py                 # 동의어 사전 구축
-5. python pruning.py                 # KG 정제
-6. python neo4j.py                   # KG → Neo4j 적재
+2. title_text_make.py                # triple 추출을 위해 LLM에 넣는 구조 제작
+3. python triple_table.py            # 표 기반 triple 추출
+4. python triple_text.py             # 텍스트 triple 추출
+5. python synonym.py                 # 동의어 사전 구축
+6. python pruning.py                 # KG 정제
+7. python neo4j.py                   # KG → Neo4j 적재
 ```
 
 ---
