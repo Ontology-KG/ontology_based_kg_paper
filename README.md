@@ -14,6 +14,12 @@
 <strong>Misuk Kim*</strong>
 </p>
 
+<p>
+  <small>
+    † Equal contribution &nbsp;&nbsp; * Corresponding author
+  </small>
+</p>
+
   <p>
     📄 <strong>Paper</strong> (Coming Soon)
     &nbsp;|&nbsp;
