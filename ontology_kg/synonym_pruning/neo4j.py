@@ -1,13 +1,11 @@
-# -*- coding: utf-8 -*-
 import json, math, re, time, requests, hashlib, ast
 from typing import Iterable, Dict, Any, List
 from dotenv import load_dotenv
 import os
 
-load_dotenv()  # .env 불러오기
+load_dotenv()
 BATCH_SIZE = 500
-# ====================================================
-# BBOX
+
 def _parse_bbox(x):
     if x is None:
         return None
@@ -74,7 +72,6 @@ CREATE_CONSTRAINTS = [
     "CREATE CONSTRAINT entity_local_id IF NOT EXISTS FOR (e:EntityLocal) REQUIRE e.id IS UNIQUE",
 ]
 
-# -------------------- UPSERT_HIERARCHY --------------------
 UPSERT_HIERARCHY = """
 UNWIND $rows AS row
 MERGE (d:Doc {id: row.doc_id})

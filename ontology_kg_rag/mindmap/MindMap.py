@@ -38,7 +38,7 @@ driver = GraphDatabase.driver(
     NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD), max_connection_pool_size=50
 )
 
-with open("/Users/jiin/Desktop/IDSL/project/서울 AI 허브 공동연구/mindmap/MindMap/entity_embedding/API_2W_entity_embeddings.pkl", "rb") as f:
+with open("entity_embedding/API_2W_entity_embeddings.pkl", "rb") as f:
     entity_data = pickle.load(f)
 
 ENTITY_LIST: List[str] = entity_data["entities"]
@@ -54,11 +54,10 @@ def _encode_normalized(texts: List[str], batch_size: int = 64) -> np.ndarray:
     return embs / norms
 
 def _cosine_topk_batch(q_embs: np.ndarray, k: int) -> Tuple[np.ndarray, np.ndarray]:
-    """정규화된 q_embs와 ENTITY_EMB 간 코사인 유사도 top-k 인덱스(부분정렬) 반환"""
     sims = np.dot(q_embs, ENTITY_EMB.T)                        # (B, N)
     part = np.argpartition(sims, -k, axis=1)[:, -k:]           # (B, k)
     rows = np.arange(sims.shape[0])[:, None]
-    sorted_idx = np.argsort(sims[rows, part], axis=1)[:, ::-1] # k개 내림차순
+    sorted_idx = np.argsort(sims[rows, part], axis=1)[:, ::-1] 
     return part[rows, sorted_idx], sims                        # (B,k), (B,N)
 
 @lru_cache(maxsize=10000)
@@ -345,35 +344,27 @@ def process_one_item(qa: Dict, doc_id: str) -> Dict:
     unans      = qa.get("unanswerable", False)
 
     try:
-        # 1) 엔티티 추출(캐시)
         ents = extract_entities_by_llm(question)
         if not ents:
             return _pack_out(qid, question, gold, "", qtype, unans, [], [], "", [])
 
-        # 2) 엔티티 매칭(배치·캐시)
         matched = match_entities_to_kg(ents, top_k=5, sim_threshold=0.70)
         if not matched:
             return _pack_out(qid, question, gold, "", qtype, unans, ents, [], "", [])
 
-        # 3) 컨텍스트 타이틀(배치)
         context_titles = deduplicate_context_titles(get_entity_context_bulk(matched, doc_id))
 
-        # 4) 이웃 탐색
         triples = explore_neighbors_fast(matched, doc_id, max_hops=3, neighbor_limit=400, max_cases=30)
 
-        # 4-1) semantic triple 보강
         semantic_triples = explore_neighbors_semantic(question, matched, doc_id, max_hops=3, top_k=3)
         triples.extend(semantic_triples)
 
-        # 4-2) 엔티티 쌍 최단경로 path evidence
         paths = find_all_entity_paths(matched, doc_id, max_paths=3)
-        # 1. Path evidence 구조화
         path_evidence = "\n".join([
             f"[PATH {i+1}] {p}"
             for i, p in enumerate(paths)
         ])
 
-        # 2. Table (ontology rule) 분리
         table_evidence = [
             f"[RULE] IF {t.get('condition')} "
             f"(CASE: {t.get('case')}) "
@@ -381,22 +372,18 @@ def process_one_item(qa: Dict, doc_id: str) -> Dict:
             for t in triples if t["type"] == "table"
         ]
 
-        # 3. Relation (graph edge) 분리
         relation_evidence = [
             f"[REL] {t.get('subj')} --{t.get('edge')}--> {t.get('obj')}"
             for t in triples if t["type"] == "text"
         ]
 
-        # 4. Semantic relevance 상위만 사용 (노이즈 제거)
         relation_evidence = relation_evidence[:30]
 
-        # 5. 최종 구조화된 evidence
         neighbor_evidence = "\n".join(
             ["=== ONTOLOGY RULES ==="] + table_evidence[:20] +
             ["\n=== GRAPH RELATIONS ==="] + relation_evidence
         )
 
-        # 6) 최종 답변
         pred = final_answer(question, path_evidence, neighbor_evidence)
 
         return _pack_out(qid, question, gold, pred, qtype, unans,ents, matched, path_evidence, triples)
@@ -404,7 +391,7 @@ def process_one_item(qa: Dict, doc_id: str) -> Dict:
     except Exception as e:
         return _pack_out(
             qid, question, gold, "", qtype, unans,
-            [], [], "", [],   # ← 여기 반드시 이렇게!
+            [], [], "", [],   
             error=str(e)
         )
 def load_processed_ids(output_path):
@@ -481,13 +468,12 @@ def run_qa_dataset(input_path: str, output_path: str, doc_id: str, limit: int = 
 if __name__ == "__main__":
     DOC_ID = "API_2W" 
     run_qa_dataset(
-        input_path="/Users/jiin/Desktop/IDSL/project/서울 AI 허브 공동연구/mindmap/MindMap/type/API_2W_rule.jsonl",
-        output_path="/Users/jiin/Desktop/IDSL/project/서울 AI 허브 공동연구/mindmap/output/rebutal_mindmap/API_2W_aware_3nd.jsonl",
+        input_path="type/API_2W_rule.jsonl",
+        output_path="output/API_2W_aware_3nd.jsonl",
         doc_id=DOC_ID,
         limit=None,         
         max_workers=6      
     )
-
 '''
 python mindmap_ont_aware_copy.py
 '''

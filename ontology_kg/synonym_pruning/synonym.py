@@ -727,7 +727,6 @@ def build_relation_dictionary(relations: List[str],
             canonical = noise_label
 
             head_counter = Counter(); tail_counter = Counter()
-            # 제외된 관계들의 시그니처도 포함
             for rel_name in all_noise_members:
                 if rel_name in all_rel2id:
                     all_rid = all_rel2id[rel_name]
@@ -768,10 +767,6 @@ def build_relation_dictionary(relations: List[str],
     rel_dict_df = rel_dict_df.sort_values(["size", "cluster_id"], ascending=[False, True]).reset_index(drop=True)
     return rel_dict_df, assignments
 
-
-# -------------------------------
-# 7) main pipeline
-# -------------------------------
 
 def build_relation_lexicon_from_df(df: pd.DataFrame,
                                    entity_assignments: Dict[str, int],
