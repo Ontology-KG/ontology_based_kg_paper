@@ -15,9 +15,7 @@
 </p>
 
 <p>
-  <small>
-    † Equal contribution &nbsp;&nbsp; * Corresponding author
-  </small>
+  <sub>† Equal contribution &nbsp;&nbsp; * Corresponding author</sub>
 </p>
 
   <p>
