@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/Status-Accepted-success" alt="Accepted"/>
 
 <p>
-<strong>Jiin Park†</strong>,
-<strong>Hyuna Jeon†</strong>,
+<a href="https://idsl.hanyang.ac.kr/members/students/%EB%B0%95%EC%A7%80%EC%9D%B8"><strong>Jiin Park†</strong></a>,
+<a href="https://idsl.hanyang.ac.kr/members/students/%EC%A0%84%ED%98%84%EC%95%84"><strong>Hyuna Jeon†</strong></a>,
 <strong>Yoonseo Lee</strong>,
 <strong>Misuk Kim*</strong>
 </p>
