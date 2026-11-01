@@ -19,7 +19,11 @@
 </p>
 
   <p>
-    📄 <strong>Paper</strong> (Coming Soon)
+    📄 <a href="https://aclanthology.org/2026.emnlp-main.1456/"><strong>Paper</strong></a>
+  &nbsp; | &nbsp;
+  <a href="https://aclanthology.org/2026.emnlp-main.1456.pdf"><strong>PDF</strong></a>
+  &nbsp; | &nbsp;
+  <a href="https://github.com/Ontology-KG/ontology_based_kg_paper"><strong>Code</strong></a>
     &nbsp;|&nbsp;
     <a href="https://huggingface.co/datasets/zzin/IndusSpec-QA">🤗 Dataset</a>
   </p>
@@ -74,11 +78,26 @@ The dataset used in this paper is publicly available on Hugging Face:
 If you use this work, please cite:
 
 ```bibtex
-@inproceedings{park2026ontology,
-  title={Ontology-Based Knowledge Graphs for Industrial Standards with Scope-Aware Logical Rule Structuring},
-  author={Park, Jiin and Jeon, Hyuna and Lee, Yoonseo and Kim, Misuk},
-  booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
-  year={2026}
+@inproceedings{park-etal-2026-ontology,
+    title = "Ontology-Based Knowledge Graphs for Industrial Standards with Scope-Aware Logical Rule Structuring",
+    author = "Park, Jiin  and
+      Jeon, Hyuna  and
+      Lee, Yoonseo  and
+      Kim, Misuk",
+    editor = "Lee, Hung-Yi  and
+      Dev, Sunipa  and
+      Li, Jessy  and
+      Elliott, Desmond",
+    booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.emnlp-main.1456/",
+    doi = "10.18653/2026.emnlp-main.1456",
+    pages = "33282--33311",
+    ISBN = "979-8-89176-459-0"
 }
-````
+```
+
 
